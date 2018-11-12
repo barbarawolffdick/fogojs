@@ -186,29 +186,4 @@ router.get('/chacinas', function(req, res, next) {
   })
 });
 
-
-/* Spider chart regioes mortes chacinas*/
-router.get('/bala', function(req, res, next) {
-  csvRead('bala_perdida', function(data) {
-    const output = { labels: [], values: [] }
-    const group = {}
-
-    data.forEach(function(el){ // transforma disparos em Int (é string)
-      if (parseInt(el.mortos) != 0) {
-        if (group[el.municipio] == null) group[el.municipio] = 0
-        group[el.municipio] = group[el.municipio] + parseInt(el.mortos)
-        return el
-      }
-    })
-
-    for (key in group) {
-      output.labels.push(key)
-      output.values.push(group[key])
-    }
-
-    res.send(output) // envia o objeto final
-  })
-});
-
-
 module.exports = router;
