@@ -1,0 +1,630 @@
+bairros,disparos,presenca_policial,mortos,feridos
+Vila Kennedy,217,21,5,13
+Praça Seca,181,24,10,11
+Complexo do Alemão,150,31,13,14
+Cidade de Deus,140,25,9,7
+Tijuca,134,12,3,10
+Rocinha,111,30,19,14
+Santa Cruz,96,9,7,2
+Realengo,85,6,7,6
+Taquara,85,7,5,5
+Pavuna,80,10,4,4
+Maré,77,12,7,12
+Copacabana,76,15,3,10
+Bangu,73,10,14,11
+Jardim Catarina,68,18,6,9
+Vicente de Carvalho,62,13,4,7
+Não identificado,60,4,6,3
+Penha,58,13,10,5
+Santa Rosa,58,8,6,4
+Vila Isabel,58,16,2,13
+Amendoeira,57,3,1,2
+Engenho Novo,56,9,4,11
+Vidigal,52,10,0,3
+Madureira,51,14,4,5
+Tanque,51,10,0,1
+Anchieta,46,7,0,3
+Cordovil,46,7,3,2
+Rio Comprido,46,6,3,4
+Manguinhos,44,11,4,3
+São José,42,5,10,1
+Botafogo,41,6,3,5
+Piam,39,11,9,5
+Fonseca,38,7,14,5
+Guadalupe,37,8,2,7
+Redentor,36,4,3,1
+Acari,34,21,8,3
+Bom Pastor,34,9,5,3
+Leme,34,8,1,3
+Piedade,34,5,4,2
+Jóquei,31,8,11,6
+Lins de Vasconcelos,31,8,9,1
+Quintino Bocaiúva,31,2,1,7
+Santa Teresa (Rio de Janeiro),31,10,2,5
+Campo Grande,30,3,5,5
+Gambôa,30,12,0,4
+Centro (Belford Roxo),28,4,7,3
+Costa Barros,28,3,1,4
+Icaraí,28,4,0,3
+Colubandê,26,5,4,6
+Cascadura,25,0,4,5
+Chatuba,25,1,1,1
+Ingá,25,4,6,2
+Penha Circular,25,7,0,3
+Engenhoca,24,2,9,4
+Jacarezinho,24,7,0,4
+Caju,23,6,6,2
+Catumbi,23,7,2,3
+São Francisco,23,3,4,2
+Irajá,22,2,5,2
+Méier,22,3,2,9
+Pauline,22,1,2,1
+Sampaio,22,3,1,0
+São Cristóvão (Rio de Janeiro),22,6,2,6
+Senador Camará,22,2,0,0
+Brisa Mar,21,9,6,6
+Cavalcanti,21,3,3,3
+Estácio,21,9,3,3
+Olavo Bilac,21,1,1,0
+Pilares,21,4,2,3
+Barra da Tijuca,20,1,6,11
+Centro (Nilópolis),20,2,1,2
+Honório Gurgel,20,3,4,2
+Padre Miguel,20,2,3,4
+Andaraí,19,0,0,3
+Barreto,19,3,3,5
+Benfica,19,4,2,2
+Rocha Miranda,19,2,2,4
+Glaucia,18,2,0,1
+Tomás Coelho,18,0,2,2
+Bom Retiro (São Gonçalo),17,6,6,4
+Guaxindiba,17,5,3,3
+Engenheiro Pedreira,16,5,2,7
+Galeão,16,3,2,3
+Jacaré (Rio de Janeiro),16,6,0,1
+Maria Paula (São Gonçalo),16,3,3,1
+Rio do Ouro (São Gonçalo),16,8,6,2
+Santa Amélia,16,1,4,1
+Santa Tereza (Belford Roxo),16,2,2,0
+Vila da Penha,16,0,2,7
+Barro Vermelho (São Gonçalo),15,2,7,9
+Barros Filho,15,5,2,1
+Jacarepaguá,15,2,2,2
+Jardim Gramacho,15,4,1,2
+Paciência,15,0,2,1
+Parada de Lucas,15,5,2,2
+Banco de Areia,14,2,2,1
+Cachambi,14,1,3,4
+Centro (Rio de Janeiro),14,4,1,6
+Jardim América (Rio de Janeiro),14,5,0,1
+Mangueira,14,1,0,0
+Marechal Hermes,14,0,2,1
+Tribobó,14,3,4,1
+Vila Centenário,14,0,0,1
+Vilar dos Teles,14,2,0,0
+Austin (Nova Iguaçu),13,2,6,9
+Brás de Pina,13,1,2,3
+Centro (Nova Iguaçu),13,2,5,8
+Engenho,13,4,3,1
+Itambi,13,3,1,3
+Itaúna,13,3,3,2
+Jardim Primavera,13,3,3,1
+Largo da Batalha,13,2,1,0
+Marambaia,13,1,2,5
+Olaria,13,2,0,1
+Santa Luzia,13,4,2,2
+São Simão,13,2,8,0
+Vale do Ipê,13,1,1,0
+Vila Valqueire,13,0,0,0
+Arsenal,12,2,2,0
+Boaçu,12,3,3,3
+Centro (Niterói),12,5,2,3
+Colégio,12,2,2,4
+Paraíso (Nova Iguaçu),12,5,5,1
+Porto Novo,12,1,4,0
+Ricardo de Albuquerque,12,2,1,0
+Rocha (Rio de Janeiro),12,1,1,5
+Váz Lobo,12,0,2,0
+Centro (Duque de Caxias),11,3,1,4
+Morro do Castro,11,3,3,0
+Paiol de Pólvora,11,1,0,0
+Vigário Geral,11,2,2,0
+Vila Santa Teresa,11,0,1,0
+Boa Vista (São Gonçalo),10,2,7,1
+Campinho,10,2,3,0
+Comendador Soares,10,2,3,0
+Deodoro,10,1,0,2
+Freguesia (Jacarepaguá),10,2,2,1
+Itanhangá,10,3,1,0
+Parada Angélica,10,3,1,3
+Alcântara,9,2,3,2
+Bento Ribeiro,9,0,2,0
+Centro (São João de Meriti),9,0,2,0
+Danon,9,6,6,5
+Das Graças,9,0,0,3
+Éden,9,2,1,2
+Engenho de Dentro,9,0,4,0
+Heliópolis (Belford Roxo),9,0,3,0
+Imbariê,9,2,3,3
+Jacutinga,9,0,1,1
+Jardim Carioca,9,1,1,0
+Mutuá,9,2,6,2
+Ramos,9,1,2,3
+Recreio dos Bandeirantes,9,1,3,0
+Salgueiro,9,5,0,7
+Saracuruna,9,1,0,0
+Vila Lage,9,2,4,3
+Ampliação,8,1,0,2
+Areia Branca,8,0,3,0
+Barro Vermelho (Belford Roxo),8,2,0,0
+Glória,8,1,0,2
+Grajaú,8,1,1,0
+Ipanema,8,2,1,0
+Jardim Meriti,8,1,0,4
+Jardim Nova Era,8,1,3,1
+Laranjal,8,2,3,4
+Laranjeiras,8,2,2,4
+Olinda,8,1,1,0
+Parque Paulista,8,0,4,0
+Parque Roseiral,8,4,0,4
+Porto do Rosa,8,2,3,1
+Rocha (São Gonçalo),8,2,1,1
+Todos os Santos,8,2,1,0
+Valverde,8,3,2,0
+Vila Centenario,8,1,3,0
+Agostinho Porto,7,2,1,0
+Anil,7,1,1,2
+Badu,7,2,0,0
+Camarão,7,0,2,1
+Catete,7,2,2,1
+Centro (Itaguaí),7,1,3,0
+Cidade Universitária,7,1,1,3
+Coelho da Rocha,7,1,2,1
+Coelho Neto,7,1,1,1
+Del Castilho,7,5,1,4
+Engenheiro Belford,7,2,0,0
+Gramacho,7,1,0,2
+Maringá,7,1,0,0
+Mutondo,7,2,2,1
+Neves,7,4,3,2
+Pacheco,7,0,2,0
+Santa Catarina,7,0,2,0
+Santíssimo,7,0,0,1
+São Lourenço,7,2,3,0
+Vila Tiradentes,7,0,1,0
+Água Santa,6,1,0,2
+Almerinda,6,1,1,2
+Andrade Araújo (Belford Roxo),6,0,0,2
+Bonsucesso,6,0,0,3
+Caonze,6,0,0,0
+Edson Passos,6,0,1,0
+Encantado,6,0,0,0
+Flamengo,6,3,0,2
+Inhaúma,6,1,0,0
+Jardim Delamare,6,2,2,0
+Jardim Guandu,6,1,3,0
+Lagoinha (Nova Iguaçu),6,1,1,0
+Marapicu,6,3,2,1
+Miriambi,6,0,2,2
+Oswaldo Cruz,6,0,0,1
+Paraíso (São Gonçalo),6,3,1,4
+Pechincha,6,1,0,3
+Pendotiba,6,1,2,2
+Pita,6,2,3,3
+Posse,6,0,2,1
+Rancho Novo,6,1,3,1
+Riachão (Nova Iguaçu),6,0,1,0
+Santo Antônio (Itaboraí),6,1,2,0
+Santo Cristo,6,1,0,1
+São Jorge,6,2,0,3
+São Mateus,6,3,1,0
+Apolo II,5,0,2,0
+Campos Elíseos,5,0,0,1
+Coelho,5,0,0,0
+Gardênia Azul,5,0,4,5
+Hiterland,5,0,0,0
+Jardim São Bento,5,0,0,0
+Jardim Tropical,5,0,1,0
+Mutuapira,5,3,4,1
+Outeiro das Pedras,5,1,1,1
+Parque Anchieta,5,2,0,0
+Parque Guandu,5,1,2,1
+Parque Martinho,5,0,1,0
+Parque São Vicente,5,2,3,1
+Pilar,5,3,1,3
+Raul Veiga,5,1,0,4
+Rocha Sobrinho,5,0,0,0
+Santa Cruz da Serra,5,1,2,0
+Santa Isabel,5,0,0,0
+Trindade,5,2,4,1
+Vila Candoza,5,1,4,0
+Vila Cosmos,5,1,1,1
+Vila de Cava,5,2,3,1
+Vila Esperanca,5,0,0,0
+Vila Rosali,5,0,1,0
+Vila Santo Antônio,5,1,0,0
+Vila São Luís (Duque de Caxias),5,1,1,0
+Vista Alegre (São Gonçalo),5,0,0,0
+Areal,4,3,1,1
+BNH (Mesquita),4,1,0,1
+Brasilândia,4,0,0,0
+Cabral,4,0,0,0
+Cabuçu,4,0,2,1
+Cantagalo,4,2,2,0
+Caramujo,4,2,0,0
+Centro (Japeri),4,0,1,0
+Centro (Queimados),4,1,3,0
+Centro (São Gonçalo),4,1,0,0
+Chácaras Rio-Petrópolis,4,0,1,0
+Charitas,4,2,2,0
+Cosmos,4,0,1,1
+Covanca,4,2,2,2
+Engenho da Rainha,4,1,0,3
+Engenho Pequeno,4,0,2,0
+Gávea,4,2,0,6
+Gradim,4,1,2,1
+Inhoaíba,4,0,2,0
+Inoã,4,0,1,2
+Itaipu (Niterói),4,3,1,0
+Jardim Nova República,4,0,0,0
+Jardim Palmares,4,0,1,0
+Jardim Santa Marta,4,1,0,0
+Manilha,4,1,0,2
+Nova Aurora,4,0,1,0
+Nova Campinas,4,0,3,0
+Nova Cidade (Itaboraí),4,0,4,0
+Parque Amorim,4,0,0,1
+Parque Floresta,4,3,1,1
+Parque Lafaiete,4,0,0,0
+Parque Primavera,4,1,1,0
+Piabetá,4,1,1,3
+Ponto Chic,4,0,3,0
+Porto Velho,4,0,1,0
+Portuguesa,4,0,0,0
+Santa Eugênia,4,0,5,0
+Santa Lúcia,4,2,1,0
+Santo Antônio da Prata,4,3,0,6
+São Francisco de Assis,4,0,2,0
+Tenente Jardim,4,0,1,0
+Turiaçu,4,1,0,1
+Vila Emil,4,1,0,0
+Vila Margarida,4,2,2,0
+Vila Norma (São João de Meriti),4,0,0,0
+Vila Santa Cruz,4,1,3,0
+Vila São João (São João de Meriti),4,1,2,0
+Vila Sapê,4,1,0,0
+Wona,4,2,0,0
+Aliança,3,1,2,0
+Belford Roxo,3,0,1,3
+Boa Sorte,3,0,0,1
+Boa Viagem,3,0,0,0
+Cacuia,3,0,3,0
+Carlos Sampaio,3,1,2,1
+Centro (Mesquita),3,0,0,0
+Coréia,3,1,0,0
+Cubango,3,0,0,0
+Engenheiro Leal,3,0,0,0
+Galo Branco,3,2,0,0
+Higienópolis,3,1,0,2
+Itaipuaçu,3,0,7,0
+Itatiaia,3,0,2,0
+Jardim Alvorada,3,2,1,1
+Jardim Ideal,3,0,0,0
+Jardim Paraíso,3,0,0,0
+Jurujuba,3,2,1,5
+Km 32,3,1,1,4
+Leblon,3,1,0,3
+Magalhães Bastos,3,0,2,0
+Maracanã,3,0,0,1
+Moquetá,3,0,1,0
+Palhada,3,2,1,1
+Parque Fluminense,3,0,3,0
+Parque Santo Antônio,3,1,0,3
+Ponta D'Areia,3,0,0,0
+Portão do Rosa,3,1,0,0
+Porto da Pedra,3,0,1,1
+Queimados,3,0,2,0
+Riachuelo,3,0,0,0
+Sabugo,3,2,1,0
+Santana (Itaguaí),3,0,0,1
+São Conrado,3,0,0,0
+São Leopoldo,3,1,3,0
+São Roque,3,1,1,0
+Sapê,3,0,0,0
+Sossego,3,0,5,1
+Tauá,3,1,0,0
+Ufrrj,3,0,1,2
+Urca,3,1,7,3
+Venda da Cruz,3,2,1,2
+Viga,3,0,0,0
+Vila das Mangueiras,3,3,2,0
+Vila do Tinguá,3,0,2,2
+Vila Gabriela,3,1,1,0
+Vila Ideal,3,1,0,3
+Vila Leopoldina,3,1,1,0
+Vila Operária,3,0,0,0
+Vila Rica,3,0,0,0
+Vila São Luís (Nova Iguaçu),3,0,1,0
+Vila Três,3,0,0,0
+Vilar Formoso,3,1,0,0
+Vista Alegre (Rio de Janeiro),3,0,1,0
+Abolição,2,0,0,0
+Alecrim,2,0,0,0
+Ambaí,2,1,0,1
+Antonina,2,1,0,1
+Arrastão,2,1,2,1
+Baldeador,2,1,0,1
+Boa Esperança (Seropédica),2,0,0,0
+Caioaba,2,0,1,1
+Califórnia (Itaguaí),2,0,0,0
+Campo Lindo,2,0,0,0
+Capivari,2,2,1,1
+Carmari,2,0,2,2
+Carolina (Duque de Caxias),2,0,0,0
+Centro (Itaboraí),2,0,0,2
+Cerâmica,2,0,1,1
+Chácara Santo Antônio,2,1,1,0
+Chaperó (Seropédica),2,0,0,0
+Cidade Nova,2,0,0,0
+Coroa Grande,2,1,1,0
+Curicica,2,0,0,0
+Da Luz,2,1,2,0
+Engenho do Mato,2,0,0,0
+Estrela do Céu,2,1,0,2
+Gláucia,2,0,0,0
+Guarani,2,1,0,1
+Guaratiba,2,0,0,0
+Itaipu (Belford Roxo),2,0,3,0
+Ititioca,2,1,2,1
+Japeri,2,1,0,0
+Jardim Anhangá,2,0,0,0
+Jardim Atlântico Oeste,2,1,0,1
+Jardim Metrópole,2,0,1,0
+Jardim Santo Antônio,2,0,0,0
+Jardim Vinte e Cinco de Agosto,2,1,0,0
+Jardins,2,0,0,0
+Lagoa,2,1,2,5
+Lagoinha (São Gonçalo),2,2,1,0
+Luiz Caçador,2,1,0,0
+Maravista,2,0,0,0
+Maria Paula (Niterói),2,0,0,0
+Miguel Couto (Nova Iguaçu),2,0,1,0
+Monjolos,2,0,1,0
+Monte Verde,2,2,0,0
+Nancilandia,2,1,0,0
+Nossa Senhora de Fátima (Nilópolis),2,0,0,0
+Nova Cidade (São Gonçalo),2,0,3,1
+Nova Piam,2,0,1,0
+Novo México,2,0,1,0
+Parada Morabi,2,0,0,0
+Paraíso (Queimados),2,0,1,0
+Parque das Missões,2,2,0,0
+Parque Senhor do Bonfim,2,1,1,0
+Patronato,2,0,0,0
+Piratininga,2,1,0,1
+Praça da Bandeira,2,0,0,0
+Prados Verdes,2,0,0,0
+Retiro São Joaquim,2,0,3,1
+Rio Várzea,2,0,0,0
+Roncador,2,0,5,0
+Rosa dos Ventos,2,0,1,0
+Sacramento,2,1,0,2
+Santa Bárbara,2,0,1,0
+São Francisco Xavier,2,1,1,0
+Sepetiba,2,0,0,0
+Serra Grande,2,0,0,0
+Vila Actura,2,0,1,0
+Vila Brasil,2,0,0,1
+Vila Dagmar,2,0,3,1
+Vila Morro Agudo,2,0,2,0
+Vilar Novo,2,0,0,0
+Zé Garoto,2,0,2,0
+Aldeia da Prata,1,0,1,0
+Alto da Boa Vista,1,1,1,0
+Anaia Grande,1,0,0,0
+Andrade Araújo (Nova Iguaçu),1,0,0,1
+Atalaia,1,0,0,0
+Austin (Queimados),1,0,0,0
+Barracão,1,0,0,0
+Beira-Rio,1,1,0,0
+Belmonte,1,0,0,0
+BNH (Belford Roxo),1,0,0,0
+BNH (Magé),1,0,1,0
+Boa Esperança (Belford Roxo),1,0,0,0
+Boa Ventura,1,0,0,0
+Boa Vista (Cachoeiras de Macacu),1,0,0,0
+Bom Retiro (Duque de Caxias),1,1,0,0
+Boqueirão,1,1,0,1
+Califórnia (Nova Iguaçu),1,0,1,0
+Calundu,1,1,1,1
+Camboinhas,1,0,0,1
+Canal,1,0,0,0
+Cangulo,1,0,0,0
+Carmary,1,0,1,0
+Carolina (Nova Iguaçu),1,0,2,0
+Centro (Maricá),1,1,0,1
+Centro (Rio Bonito),1,0,0,0
+Centro (Seropédica),1,0,3,0
+Chaperó (Itaguaí),1,0,0,0
+Cidade Horácio,1,0,0,0
+Circular,1,0,0,0
+City Areal,1,0,0,0
+Colinas,1,1,0,3
+Colônia,1,0,0,0
+Cosme Velho,1,0,0,1
+Cosmorama,1,0,1,0
+Dois Irmãos,1,0,0,0
+Doutor Laureano,1,0,0,0
+Engenho do Porto,1,0,0,0
+Engenho do Roçado,1,0,0,0
+Esperança,1,1,0,0
+Estrela do Norte,1,0,0,1
+Fazenda Caxias,1,0,0,0
+Figueiras,1,0,0,0
+Floresta,1,0,1,0
+Freguesia (Ilha do Governador),1,0,0,3
+Gebara,1,0,0,0
+Gragoatá,1,0,0,1
+Hararas da Peniche,1,0,0,0
+Heliópolis (Rio de Janeiro),1,1,0,0
+Ilha da Conceição,1,0,0,2
+Inconfidência,1,0,0,0
+Inhauma,1,0,0,0
+Ipiiba,1,0,0,0
+Ipiíba,1,0,0,0
+Ipiranga (Magé),1,0,0,0
+Ipiranga (Nova Iguaçu),1,0,0,0
+Itaoca,1,0,4,0
+Itaville,1,0,0,0
+Jacaré (Niterói),1,0,0,0
+Jacaroá,1,0,3,0
+Jardim Alzira,1,0,0,0
+Jardim América (Itaguaí),1,0,0,0
+Jardim Atlântico Central,1,0,0,0
+Jardim Bom Retiro,1,0,1,0
+Jardim Botânico,1,0,0,0
+Jardim da Posse,1,0,0,0
+Jardim Ferma,1,0,0,0
+Jardim Guanabara,1,0,0,1
+Jardim Iguaçu,1,0,1,0
+Jardim Imbariê,1,0,1,0
+Jardim Imperial,1,0,0,0
+Jardim Imperio,1,1,0,0
+Jardim Iris,1,0,0,0
+Jardim Itaipu,1,0,0,0
+Jardim Lider,1,1,1,0
+Jardim Magnólia,1,0,1,0
+Jardim Metropole,1,0,0,0
+Jardim Monte Castelo,1,0,0,0
+Jardim Noya,1,0,0,0
+Jardim Paraiso,1,0,1,0
+Jardim Pitoresco,1,0,1,0
+Jardim Queimados,1,0,0,5
+Jardim Santo Antonio,1,1,0,0
+Jardim São Lourenço,1,0,0,0
+Jardim Silvana,1,1,0,0
+Jardim Transmontano,1,0,0,0
+Juscelino,1,1,3,0
+Lajes,1,0,0,0
+Largo Barradas,1,0,0,0
+Largo do Barradas,1,0,0,0
+Largo do Machado,1,0,0,0
+Lindo Parque,1,1,0,1
+Lote XV,1,0,0,0
+Manoel Reis,1,0,0,0
+Maria Conga,1,0,0,0
+Maringa,1,1,0,1
+Maurimárcia,1,0,0,0
+Metrópole,1,0,0,0
+Miguel Couto (Belford Roxo),1,0,0,0
+Morada do Sol II (Itambi),1,0,1,0
+Mutuaguaçu,1,1,2,1
+Nancilândia,1,1,2,1
+Nossa Senhora de Fátima (Queimados),1,0,1,0
+Nova América,1,1,0,0
+Nova Belém,1,0,0,0
+Nova Brasília,1,0,1,0
+Nova Cidade (Nilópolis),1,0,0,0
+Novo Horizonte,1,0,0,0
+Novo Mexico,1,1,0,2
+Ouro Preto,1,0,0,0
+Parada 40,1,0,1,0
+Parque Aida,1,0,0,0
+Parque Alvorada,1,0,1,0
+Parque Analândia,1,1,0,0
+Parque Araruama,1,0,0,0
+Parque Beira Mar,1,0,0,0
+Parque Caçula,1,0,0,0
+Parque Capivari,1,1,4,1
+Parque Centenário,1,0,0,0
+Parque Colonial,1,1,2,0
+Parque Duque,1,0,1,0
+Parque Eldorado,1,0,0,0
+Parque Esperança,1,1,0,0
+Parque Estrela,1,0,0,0
+Parque Felicidade,1,0,5,0
+Parque Flora,1,1,2,0
+Parque Império,1,0,0,0
+Parque Juriti,1,0,0,0
+Parque Laguna e Dourados,1,1,1,0
+Parque Mucaja,1,0,0,0
+Parque Muisa,1,0,0,0
+Parque Nanci,1,0,0,1
+Parque Novo Rio,1,1,0,1
+Parque Samira,1,1,1,0
+Parque Sao Bernardo,1,0,0,0
+Parque Sao Nicolau,1,0,0,0
+Parque São Nicolau,1,0,0,0
+Parque Sarapuí,1,0,0,1
+Parque Valdairosa,1,0,2,0
+Pau Grande,1,0,1,1
+Pé Pequeno,1,0,0,0
+Peixoto,1,0,0,0
+Picos,1,0,1,0
+Pitangueiras,1,0,0,0
+Praca da Bandeira,1,1,0,0
+Prata,1,0,0,1
+Quinta dos Colibris,1,0,0,0
+Raia,1,0,0,0
+Retiro,1,0,0,0
+Retiro dos Califas,1,0,0,0
+Riachão (Queimados),1,0,1,0
+Rio do Ouro (Niterói),1,0,1,0
+Santa Maria,1,0,0,0
+Santa Paula,1,0,0,0
+Santa Rita,1,0,0,0
+Santa Sofia,1,0,0,0
+Santa Terezinha,1,0,0,0
+Santana (Niterói),1,0,0,0
+Santo Antônio (Duque de Caxias),1,0,0,0
+Santo Antônio (Niterói),1,1,0,0
+Santo Elias,1,0,0,0
+Santos Neves,1,0,0,0
+São Bento,1,0,1,0
+São Bernardo,1,0,0,0
+São Cristóvão (Queimados),1,0,0,0
+Sao Mateus,1,0,0,0
+São Miguel (São Gonçalo),1,0,0,1
+São Miguel (Seropédica),1,0,0,0
+São Vicente,1,0,0,1
+Sete Pontes,1,0,0,2
+Shangri-lá,1,0,0,0
+Sitio Retiro Feliz,1,0,0,0
+Sublime,1,0,0,0
+Tiradentes,1,0,0,0
+Tomazinho,1,0,0,0
+Três Fontes,1,0,0,0
+Trezentos,1,1,0,0
+UFFRJ,1,0,3,0
+Vargem Pequena,1,0,0,0
+Várzea das Moças,1,0,0,0
+Vasco da Gama,1,0,0,0
+Venda das Pedras,1,0,1,0
+Venda Velha,1,0,0,0
+Vila Andorinhas,1,0,0,0
+Vila Brasil (Manilha),1,1,4,0
+Vila Central,1,0,0,0
+Vila Colúmbia,1,0,0,0
+Vila Cortes,1,0,0,0
+Vila Esperança,1,0,0,0
+Vila Guimaraes,1,0,0,0
+Vila Humaita,1,0,0,0
+Vila Japeri,1,0,0,0
+Vila Maria Helena,1,0,0,1
+Vila Nascente,1,0,0,0
+Vila Norma (Mesquita),1,0,0,0
+Vila Nova,1,0,0,0
+Vila Santa Amélia,1,0,0,0
+Vila Santos Neto,1,0,0,0
+Vila São João (Queimados),1,0,0,0
+Vila Sao Judas Tadeu,1,0,0,0
+Vila São Judas Tadeu,1,0,0,0
+Vila São Teodoro,1,0,0,0
+Vila Sarapui,1,0,0,0
+Vila Sueli,1,0,0,0
+Vila Treze de Maio,1,0,1,0
+Vila Urussaí,1,0,0,0
+Vila Zulmira,1,1,0,0
+Vital Brasil,1,0,0,0
+Xavantes,1,0,1,0
+Zumbi,1,0,1,0

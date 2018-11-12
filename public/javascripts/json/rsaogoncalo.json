@@ -1,0 +1,569 @@
+[
+  {
+    "bairros": "Jardim Catarina",
+    "disparos": "68",
+    "presenca_policial": "18",
+    "mortos": "6",
+    "feridos": "9"
+  },
+  {
+    "bairros": "Amendoeira",
+    "disparos": "57",
+    "presenca_policial": "3",
+    "mortos": "1",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Jóquei",
+    "disparos": "31",
+    "presenca_policial": "8",
+    "mortos": "11",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Colubandê",
+    "disparos": "26",
+    "presenca_policial": "5",
+    "mortos": "4",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Bom Retiro",
+    "disparos": "17",
+    "presenca_policial": "6",
+    "mortos": "6",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Guaxindiba",
+    "disparos": "17",
+    "presenca_policial": "5",
+    "mortos": "3",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Maria Paula",
+    "disparos": "16",
+    "presenca_policial": "3",
+    "mortos": "3",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Rio do Ouro",
+    "disparos": "16",
+    "presenca_policial": "8",
+    "mortos": "6",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Barro Vermelho",
+    "disparos": "15",
+    "presenca_policial": "2",
+    "mortos": "7",
+    "feridos": "9"
+  },
+  {
+    "bairros": "Tribobó",
+    "disparos": "14",
+    "presenca_policial": "3",
+    "mortos": "4",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Itaúna",
+    "disparos": "13",
+    "presenca_policial": "3",
+    "mortos": "3",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Santa Luzia",
+    "disparos": "13",
+    "presenca_policial": "4",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Arsenal",
+    "disparos": "12",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Boaçu",
+    "disparos": "12",
+    "presenca_policial": "3",
+    "mortos": "3",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Porto Novo",
+    "disparos": "12",
+    "presenca_policial": "1",
+    "mortos": "4",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Morro do Castro",
+    "disparos": "11",
+    "presenca_policial": "3",
+    "mortos": "3",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Boa Vista",
+    "disparos": "10",
+    "presenca_policial": "2",
+    "mortos": "7",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Alcântara",
+    "disparos": "9",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Mutuá",
+    "disparos": "9",
+    "presenca_policial": "2",
+    "mortos": "6",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Salgueiro",
+    "disparos": "9",
+    "presenca_policial": "5",
+    "mortos": "0",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Vila Lage",
+    "disparos": "9",
+    "presenca_policial": "2",
+    "mortos": "4",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Laranjal",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Porto do Rosa",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Rocha",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Camarão",
+    "disparos": "7",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Mutondo",
+    "disparos": "7",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Neves",
+    "disparos": "7",
+    "presenca_policial": "4",
+    "mortos": "3",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Pacheco",
+    "disparos": "7",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Santa Catarina",
+    "disparos": "7",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Não identificados",
+    "disparos": "6",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Almerinda",
+    "disparos": "6",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Miriambi",
+    "disparos": "6",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Paraíso",
+    "disparos": "6",
+    "presenca_policial": "3",
+    "mortos": "1",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Pita",
+    "disparos": "6",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Coelho",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Mutuapira",
+    "disparos": "5",
+    "presenca_policial": "3",
+    "mortos": "4",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Raul Veiga",
+    "disparos": "5",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Santa Isabel",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Trindade",
+    "disparos": "5",
+    "presenca_policial": "2",
+    "mortos": "4",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Vila Candoza",
+    "disparos": "5",
+    "presenca_policial": "1",
+    "mortos": "4",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vista Alegre",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Brasilândia",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Centro",
+    "disparos": "4",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Covanca",
+    "disparos": "4",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Engenho Pequeno",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Gradim",
+    "disparos": "4",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Jardim Nova República",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Porto Velho",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Galo Branco",
+    "disparos": "3",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Portão do Rosa",
+    "disparos": "3",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Porto da Pedra",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Venda da Cruz",
+    "disparos": "3",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Vila Três",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Antonina",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Arrastão",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Guarani",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Lagoinha",
+    "disparos": "2",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Luiz Caçador",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Monjolos",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Nova Cidade",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "3",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Novo México",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Patronato",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Sacramento",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Zé Garoto",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Anaia Grande",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Barracão",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Engenho do Roçado",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Estrela do Norte",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Ipiiba",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Ipiíba",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Itaoca",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "4",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Bom Retiro",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Lindo Parque",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Mutuaguaçu",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Novo Mexico",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Parada 40",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Miguel",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Sete Pontes",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Tiradentes",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Várzea das Moças",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Zumbi",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  }
+]

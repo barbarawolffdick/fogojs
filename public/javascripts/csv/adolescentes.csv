@@ -1,0 +1,36 @@
+dia,mes,hora,municipio,bairro,localidade,mortos,feridos,agentes mortos,agentes feridos,presenca_policial,detalhes da vitima
+27,2,20:00,Rio de Janeiro,Favela do Caju,R. Três - Caju,1,0,0,0,sim,homem 15 anos
+4,3,4:30,Rio de Janeiro,Lagoa Rodrigo de Freitas,Avenida Borges de Medeiros,0,3,0,0,não,-
+10,3,14:23,Rio de Janeiro,Bangu,Vila Aliança,1,0,0,0,não,-
+13,3,20:30,São Gonçalo,Lagoinha,Rua Francisco Lucena,1,0,0,0,sim,-
+17,3,-,Rio de Janeiro,Thomas Coelho,Rua Itapuca,0,1,0,0,desconhecido,-
+18,3,19:00,Nova Iguaçu,Cobrex - Ponto Chic,Rua Doutor Ivan Leal ,1,0,0,0,não,-
+18,3,19:00,Rio de Janeiro,Gávea,Favela Parque da Cidade,0,1,0,0,não,-
+23,3,15:00,Rio de Janeiro,Bangu,Vila Aliança,0,1,0,0,sim,-
+25,3,5:59,Maricá,Itaipuaçu,Conjunto Habitacional Minha Casa Minha Vida,2,0,0,0,desconhecido,
+27,3,21:10,Rio de Janeiro,Barra da Tijuca,"Av das Américas, altura Bosque da Barra",0,2,0,0,não,-
+4,4,15:00,Rio de Janeiro,Lins de Vasconcelos ,Barro Vermelho/Complexo do Lins,0,1,0,0,não,-
+10,4,4:00,Nova Iguaçu,Austin,Morro do DPO,1,0,0,0,não,-
+15,5,20:00,Rio de Janeiro,Jardim Carioca/Ilha doGovernador ,Rua Sargento João Lopes,1,0,0,0,não,-
+13,6,19:15,Rio de Janeiro,Acari,Complexo do Acari,0,1,0,0,sim,-
+15,6,7:45,Rio de Janeiro,Catumbi,Morro da Coroa,1,0,0,0,sim,-
+17,6,20:00,São João de Meriti,Vila São João,Rua niterói,1,0,0,0,sim,-
+20,6,9:44,Rio de Janeiro,Maré,Vila Pinheiro,1,0,0,0,sim,-
+20,6,22:00,Rio de Janeiro,Padre Miguel,Vila Vintém,1,1,0,0,não,-
+20,6,22:00,Maricá,Itaipuaçu,-,1,0,0,0,não,15 anos
+21,6,22:00,São Gonçalo,Neves,-,0,1,0,0,sim,"adolescente, homem"
+23,6,22:00,Maricá,Itaipuaçu,Loteamendo Jardim Atlântico,0,1,0,0,sim,"13 anos, masculino"
+25,6,8:00,Maricá,Jacaroá,Estrada do Caju,1,0,0,0,não,masculino
+30,6,20:00,Nilópolis,Olinda,Rua beira rio,1,0,0,0,não,mulher
+4,7,15:00,Nova Iguaçu,Ambaí,Favela da Bacia,0,1,0,0,sim,"masculino, 16 anos"
+5,7,15:00,São Gonçalo,Laranjal,Rua Camaçari,0,1,0,0,não,"masculino, 17 anos"
+7,7,15:00,São Gonçalo,Sacramento,-,0,1,0,0,sim,"mulher, 14 anos"
+8,7,15:00,Itaboraí,Areal,Sem Terra,1,0,0,0,sim,
+10,7,22:00,Magé,-,-,0,1,0,0,não,"feminino, 16 anos"
+22,7,20:05,Belford Roxo,Parque São José,Parque São José,1,0,0,0,não,
+31,7,15:00,Rio de Janeiro,Rocinha,Avenida Niemeyer,0,1,0,0,sim,"14 anos, masculino"
+8,8,15:40,Rio de Janeiro,Vila Kennedy,Rua Joaquim Pires Cerveira,0,1,0,0,desconhecido,adolescente
+12,8,15:00,Rio de Janeiro,Paciência,Estação Tancredo Neves,0,1,0,0,não,"16 anos, masculino"
+9,8,6:40,Niterói,Ingá,Morro do Palácio,0,1,0,0,sim,"adolescente, masculino"
+21,8,12:24,Belford Roxo,Parque Amorim ,Rua Alameda Argentina,0,1,0,0,não,12 anos
+25,8,20:30,São Gonçalo,Mutuaguaçu,- ,2,0,0,1,sim,"2 adolescentes, masculino"

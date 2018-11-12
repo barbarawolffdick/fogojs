@@ -1,0 +1,1017 @@
+[
+  {
+    "bairros": "Vila Kennedy",
+    "disparos": "217",
+    "presenca_policial": "21",
+    "mortos": "5",
+    "feridos": "13"
+  },
+  {
+    "bairros": "Praça Seca",
+    "disparos": "181",
+    "presenca_policial": "24",
+    "mortos": "10",
+    "feridos": "11"
+  },
+  {
+    "bairros": "Complexo do Alemão",
+    "disparos": "150",
+    "presenca_policial": "31",
+    "mortos": "13",
+    "feridos": "14"
+  },
+  {
+    "bairros": "Cidade de Deus",
+    "disparos": "140",
+    "presenca_policial": "25",
+    "mortos": "9",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Tijuca",
+    "disparos": "134",
+    "presenca_policial": "12",
+    "mortos": "3",
+    "feridos": "10"
+  },
+  {
+    "bairros": "Rocinha",
+    "disparos": "111",
+    "presenca_policial": "30",
+    "mortos": "19",
+    "feridos": "14"
+  },
+  {
+    "bairros": "Santa Cruz",
+    "disparos": "96",
+    "presenca_policial": "9",
+    "mortos": "7",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Realengo",
+    "disparos": "85",
+    "presenca_policial": "6",
+    "mortos": "7",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Taquara",
+    "disparos": "85",
+    "presenca_policial": "7",
+    "mortos": "5",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Pavuna",
+    "disparos": "80",
+    "presenca_policial": "10",
+    "mortos": "4",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Maré",
+    "disparos": "77",
+    "presenca_policial": "12",
+    "mortos": "7",
+    "feridos": "12"
+  },
+  {
+    "bairros": "Copacabana",
+    "disparos": "76",
+    "presenca_policial": "15",
+    "mortos": "3",
+    "feridos": "10"
+  },
+  {
+    "bairros": "Bangu",
+    "disparos": "73",
+    "presenca_policial": "10",
+    "mortos": "14",
+    "feridos": "11"
+  },
+  {
+    "bairros": "Vicente de Carvalho",
+    "disparos": "62",
+    "presenca_policial": "13",
+    "mortos": "4",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Penha",
+    "disparos": "58",
+    "presenca_policial": "13",
+    "mortos": "10",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Vila Isabel",
+    "disparos": "58",
+    "presenca_policial": "16",
+    "mortos": "2",
+    "feridos": "13"
+  },
+  {
+    "bairros": "Engenho Novo",
+    "disparos": "56",
+    "presenca_policial": "9",
+    "mortos": "4",
+    "feridos": "11"
+  },
+  {
+    "bairros": "Vidigal",
+    "disparos": "52",
+    "presenca_policial": "10",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Madureira",
+    "disparos": "51",
+    "presenca_policial": "14",
+    "mortos": "4",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Tanque",
+    "disparos": "51",
+    "presenca_policial": "10",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Anchieta",
+    "disparos": "46",
+    "presenca_policial": "7",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Cordovil",
+    "disparos": "46",
+    "presenca_policial": "7",
+    "mortos": "3",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Rio Comprido",
+    "disparos": "46",
+    "presenca_policial": "6",
+    "mortos": "3",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Manguinhos",
+    "disparos": "44",
+    "presenca_policial": "11",
+    "mortos": "4",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Botafogo",
+    "disparos": "41",
+    "presenca_policial": "6",
+    "mortos": "3",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Guadalupe",
+    "disparos": "37",
+    "presenca_policial": "8",
+    "mortos": "2",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Acari",
+    "disparos": "34",
+    "presenca_policial": "21",
+    "mortos": "8",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Leme",
+    "disparos": "34",
+    "presenca_policial": "8",
+    "mortos": "1",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Piedade",
+    "disparos": "34",
+    "presenca_policial": "5",
+    "mortos": "4",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Lins de Vasconcelos",
+    "disparos": "31",
+    "presenca_policial": "8",
+    "mortos": "9",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Quintino Bocaiúva",
+    "disparos": "31",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Santa Teresa",
+    "disparos": "31",
+    "presenca_policial": "10",
+    "mortos": "2",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Campo Grande",
+    "disparos": "30",
+    "presenca_policial": "3",
+    "mortos": "5",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Gambôa",
+    "disparos": "30",
+    "presenca_policial": "12",
+    "mortos": "0",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Costa Barros",
+    "disparos": "28",
+    "presenca_policial": "3",
+    "mortos": "1",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Cascadura",
+    "disparos": "25",
+    "presenca_policial": "0",
+    "mortos": "4",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Penha Circular",
+    "disparos": "25",
+    "presenca_policial": "7",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Jacarezinho",
+    "disparos": "24",
+    "presenca_policial": "7",
+    "mortos": "0",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Caju",
+    "disparos": "23",
+    "presenca_policial": "6",
+    "mortos": "6",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Catumbi",
+    "disparos": "23",
+    "presenca_policial": "7",
+    "mortos": "2",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Irajá",
+    "disparos": "22",
+    "presenca_policial": "2",
+    "mortos": "5",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Méier",
+    "disparos": "22",
+    "presenca_policial": "3",
+    "mortos": "2",
+    "feridos": "9"
+  },
+  {
+    "bairros": "Sampaio",
+    "disparos": "22",
+    "presenca_policial": "3",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Cristóvão",
+    "disparos": "22",
+    "presenca_policial": "6",
+    "mortos": "2",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Senador Camará",
+    "disparos": "22",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Cavalcanti",
+    "disparos": "21",
+    "presenca_policial": "3",
+    "mortos": "3",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Estácio",
+    "disparos": "21",
+    "presenca_policial": "9",
+    "mortos": "3",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Pilares",
+    "disparos": "21",
+    "presenca_policial": "4",
+    "mortos": "2",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Barra da Tijuca",
+    "disparos": "20",
+    "presenca_policial": "1",
+    "mortos": "6",
+    "feridos": "11"
+  },
+  {
+    "bairros": "Honório Gurgel",
+    "disparos": "20",
+    "presenca_policial": "3",
+    "mortos": "4",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Padre Miguel",
+    "disparos": "20",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Andaraí",
+    "disparos": "19",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Benfica",
+    "disparos": "19",
+    "presenca_policial": "4",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Rocha Miranda",
+    "disparos": "19",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Tomás Coelho",
+    "disparos": "18",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Galeão",
+    "disparos": "16",
+    "presenca_policial": "3",
+    "mortos": "2",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Jacaré",
+    "disparos": "16",
+    "presenca_policial": "6",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Vila da Penha",
+    "disparos": "16",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Barros Filho",
+    "disparos": "15",
+    "presenca_policial": "5",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Jacarepaguá",
+    "disparos": "15",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Paciência",
+    "disparos": "15",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Parada de Lucas",
+    "disparos": "15",
+    "presenca_policial": "5",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Cachambi",
+    "disparos": "14",
+    "presenca_policial": "1",
+    "mortos": "3",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Centro",
+    "disparos": "14",
+    "presenca_policial": "4",
+    "mortos": "1",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Jardim América",
+    "disparos": "14",
+    "presenca_policial": "5",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Mangueira",
+    "disparos": "14",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Marechal Hermes",
+    "disparos": "14",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Brás de Pina",
+    "disparos": "13",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Olaria",
+    "disparos": "13",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Vila Valqueire",
+    "disparos": "13",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Colégio",
+    "disparos": "12",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Ricardo de Albuquerque",
+    "disparos": "12",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Rocha",
+    "disparos": "12",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Váz Lobo",
+    "disparos": "12",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vigário Geral",
+    "disparos": "11",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Campinho",
+    "disparos": "10",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Deodoro",
+    "disparos": "10",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Freguesia (Jacarepaguá)",
+    "disparos": "10",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Itanhangá",
+    "disparos": "10",
+    "presenca_policial": "3",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Bento Ribeiro",
+    "disparos": "9",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Engenho de Dentro",
+    "disparos": "9",
+    "presenca_policial": "0",
+    "mortos": "4",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Carioca",
+    "disparos": "9",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Ramos",
+    "disparos": "9",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Recreio dos Bandeirantes",
+    "disparos": "9",
+    "presenca_policial": "1",
+    "mortos": "3",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Glória",
+    "disparos": "8",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Grajaú",
+    "disparos": "8",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Ipanema",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Laranjeiras",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Todos os Santos",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Anil",
+    "disparos": "7",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Catete",
+    "disparos": "7",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Cidade Universitária",
+    "disparos": "7",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Coelho Neto",
+    "disparos": "7",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Del Castilho",
+    "disparos": "7",
+    "presenca_policial": "5",
+    "mortos": "1",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Santíssimo",
+    "disparos": "7",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Água Santa",
+    "disparos": "6",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Bonsucesso",
+    "disparos": "6",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Encantado",
+    "disparos": "6",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Flamengo",
+    "disparos": "6",
+    "presenca_policial": "3",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Inhaúma",
+    "disparos": "6",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Oswaldo Cruz",
+    "disparos": "6",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Pechincha",
+    "disparos": "6",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Santo Cristo",
+    "disparos": "6",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Gardênia Azul",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "4",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Parque Anchieta",
+    "disparos": "5",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vila Cosmos",
+    "disparos": "5",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Cosmos",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Engenho da Rainha",
+    "disparos": "4",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Gávea",
+    "disparos": "4",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Inhoaíba",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Portuguesa",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Turiaçu",
+    "disparos": "4",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Engenheiro Leal",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Higienópolis",
+    "disparos": "3",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Leblon",
+    "disparos": "3",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Magalhães Bastos",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Maracanã",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Riachuelo",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Conrado",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Tauá",
+    "disparos": "3",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Urca",
+    "disparos": "3",
+    "presenca_policial": "1",
+    "mortos": "7",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Vista Alegre",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Abolição",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Cidade Nova",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Curicica",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Guaratiba",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Lagoa",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Praça da Bandeira",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Francisco Xavier",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Sepetiba",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Alto da Boa Vista",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Cosme Velho",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Freguesia (Ilha do Governador)",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Heliópolis",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Inhauma",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Botânico",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Guanabara",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Largo do Machado",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Pitangueiras",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Praca da Bandeira",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vargem Pequena",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vasco da Gama",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "\"Fonte: O Fogo Cruzado é um Data lab",
+    "disparos": " laboratório de dados sobre violência armada",
+    "presenca_policial": " que agrega e disponibiliza informações através de um aplicativo e mapa colaborativo\"",
+    "mortos": null,
+    "feridos": null
+  },
+  {
+    "bairros": "\"* Presença de Agentes: Situações em que são percebidas a presença de agentes de segurança durante o tiroteio/disparo. Exemplo: Operação",
+    "disparos": " Ação",
+    "presenca_policial": " Assalto a agentes etc                                \"",
+    "mortos": null,
+    "feridos": null
+  },
+  {
+    "bairros": "**Dados parciais até às 09 hrs do dia 15 de setembro",
+    "disparos": null,
+    "presenca_policial": null,
+    "mortos": null,
+    "feridos": null
+  }
+]

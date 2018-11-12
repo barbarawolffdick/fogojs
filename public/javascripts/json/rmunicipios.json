@@ -1,0 +1,142 @@
+[
+  {
+    "bairros": "Rio de Janeiro",
+    "disparos": "3454",
+    "presenca_policial": "579",
+    "mortos": "304",
+    "feridos": "407"
+  },
+  {
+    "bairros": "São Gonçalo",
+    "disparos": "602",
+    "presenca_policial": "134",
+    "mortos": "153",
+    "feridos": "112"
+  },
+  {
+    "bairros": "Belford Roxo",
+    "disparos": "433",
+    "presenca_policial": "64",
+    "mortos": "73",
+    "feridos": "41"
+  },
+  {
+    "bairros": "Niterói",
+    "disparos": "330",
+    "presenca_policial": "58",
+    "mortos": "61",
+    "feridos": "42"
+  },
+  {
+    "bairros": "Duque de Caxias",
+    "disparos": "239",
+    "presenca_policial": "41",
+    "mortos": "52",
+    "feridos": "27"
+  },
+  {
+    "bairros": "Nova Iguaçu",
+    "disparos": "214",
+    "presenca_policial": "40",
+    "mortos": "89",
+    "feridos": "43"
+  },
+  {
+    "bairros": "São João de Meriti",
+    "disparos": "119",
+    "presenca_policial": "20",
+    "mortos": "13",
+    "feridos": "8"
+  },
+  {
+    "bairros": "Itaboraí",
+    "disparos": "103",
+    "presenca_policial": "20",
+    "mortos": "35",
+    "feridos": "21"
+  },
+  {
+    "bairros": "Mesquita",
+    "disparos": "79",
+    "presenca_policial": "7",
+    "mortos": "9",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Itaguaí",
+    "disparos": "64",
+    "presenca_policial": "21",
+    "mortos": "17",
+    "feridos": "11"
+  },
+  {
+    "bairros": "Queimados",
+    "disparos": "55",
+    "presenca_policial": "8",
+    "mortos": "31",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Japeri",
+    "disparos": "54",
+    "presenca_policial": "15",
+    "mortos": "7",
+    "feridos": "18"
+  },
+  {
+    "bairros": "Nilópolis",
+    "disparos": "48",
+    "presenca_policial": "4",
+    "mortos": "2",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Magé",
+    "disparos": "22",
+    "presenca_policial": "2",
+    "mortos": "7",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Seropédica",
+    "disparos": "16",
+    "presenca_policial": "0",
+    "mortos": "7",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Maricá",
+    "disparos": "15",
+    "presenca_policial": "2",
+    "mortos": "11",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Paracambi",
+    "disparos": "5",
+    "presenca_policial": "2",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Rio Bonito",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Tanguá",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Cachoeiras de Macacu",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  }
+]

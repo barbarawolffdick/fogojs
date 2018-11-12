@@ -1,0 +1,154 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+  background-color: #131D20;
+  color: #fff;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  margin: 2rem;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 40rem;
+  border: 1px solid #0b1f21;
+  border-radius: 0.2rem;
+  margin-bottom: 2rem;
+  margin-right: 1.5rem;
+  padding: 1rem 1rem 3rem;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Avenir Next", "Avenir", Arial, Helvetica, sans-serif;
+}
+
+h2{
+  font-size: 1.5rem;
+  /* margin-bottom: 1rem; */
+  color: #163134;
+}
+
+
+/* Menu responsivo */
+
+#logo{
+  width: 120px;
+  padding: 1em 1em 0;
+  float: left;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #163134;
+  font-family: "Avenir";
+}
+
+.topnav:first-child:hover{
+  background-color: none;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1rem;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.active {
+  background-color: #39b3d7;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 0.85rem;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 1rem;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #ff5c00;
+  color: black;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "bairros": "Complexo do Alemão",
+    "disparos": "154",
+    "presenca_policial": "31",
+    "mortos": "13",
+    "feridos": "14"
+  },
+  {
+    "bairros": "Rocinha",
+    "disparos": "113",
+    "presenca_policial": "31",
+    "mortos": "19",
+    "feridos": "17"
+  },
+  {
+    "bairros": "Cidade de Deus",
+    "disparos": "107",
+    "presenca_policial": "16",
+    "mortos": "8",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Complexo do São Carlos",
+    "disparos": "79",
+    "presenca_policial": "23",
+    "mortos": "7",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Vila Kennedy",
+    "disparos": "64",
+    "presenca_policial": "9",
+    "mortos": "1",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Complexo de Manguinhos",
+    "disparos": "57",
+    "presenca_policial": "13",
+    "mortos": "6",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Complexo da Penha",
+    "disparos": "56",
+    "presenca_policial": "14",
+    "mortos": "8",
+    "feridos": "2"
+  },
+  {
+    "bairros": "PPG",
+    "disparos": "53",
+    "presenca_policial": "10",
+    "mortos": "2",
+    "feridos": "6"
+  },
+  {
+    "bairros": "Vidigal",
+    "disparos": "52",
+    "presenca_policial": "10",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Borel",
+    "disparos": "48",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Macacos",
+    "disparos": "48",
+    "presenca_policial": "13",
+    "mortos": "1",
+    "feridos": "10"
+  },
+  {
+    "bairros": "Complexo do Lins",
+    "disparos": "42",
+    "presenca_policial": "11",
+    "mortos": "9",
+    "feridos": "7"
+  },
+  {
+    "bairros": "Formiga",
+    "disparos": "38",
+    "presenca_policial": "4",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Jacarezinho",
+    "disparos": "37",
+    "presenca_policial": "12",
+    "mortos": "1",
+    "feridos": "4"
+  },
+  {
+    "bairros": "São João",
+    "disparos": "33",
+    "presenca_policial": "4",
+    "mortos": "3",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Providência",
+    "disparos": "32",
+    "presenca_policial": "13",
+    "mortos": "0",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Chapéu Mangueira/Babilônia",
+    "disparos": "31",
+    "presenca_policial": "8",
+    "mortos": "1",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Santa Marta",
+    "disparos": "30",
+    "presenca_policial": "5",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Andaraí",
+    "disparos": "23",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Caju",
+    "disparos": "21",
+    "presenca_policial": "6",
+    "mortos": "6",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Turano",
+    "disparos": "21",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Mangueirinha",
+    "disparos": "17",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Tabajaras",
+    "disparos": "16",
+    "presenca_policial": "4",
+    "mortos": "3",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Mangueira",
+    "disparos": "14",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Barreira do Vasco/Tuiutí",
+    "disparos": "13",
+    "presenca_policial": "3",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Salgueiro",
+    "disparos": "11",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Prazeres",
+    "disparos": "6",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Batan",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  }
+]

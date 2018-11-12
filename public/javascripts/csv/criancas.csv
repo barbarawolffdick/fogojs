@@ -1,0 +1,12 @@
+dia,mes,hora,municipio,bairro,localidade,mortos,feridos,agentes mortos,agentes feridos,presenca_policial,detalhes da vitima
+21,2,-,Duque de Caxias,Imbariê,"Imbariê, Duque de Caxias",0,1,0,0,sim,criança 7 anos
+24,2,22:00,Rio de Janeiro,Copacabana,Morro do Cantagalo ,1,0,0,0,não,criança 10 anos
+16,3,20:30,Rio de Janeiro,Complexo do Alemão,Nova Brasília,1,1,0,0,sim,criança 11 e 2 anos
+19,3,20:34,São Gonçalo,Nova Cidade,Rua União,0,1,0,0,não,criança 2 anos
+25,4,15:00,Rio de Janeiro,Cavalcanti,Rua Herculano Pena,0,1,0,0,não,criança 11 anos
+25,4,14:00,Belford Roxo,Jardim do Ipê,Jardim do ipê,0,1,0,0,não,Criança 8 anos
+27,4,18:45,Rio de Janeiro,Engenho Novo,Morro do Quieto (Sampaio),0,2,0,0,sim,criança 11 anos
+14,5,20:00,Rio de Janeiro,Cosme Velho,Colégio Vicente de Paulo - Rua Cosme Velho,0,1,0,0,não,Bebe 6 meses
+5,8,6:00,Rio de Janeiro,Freguesia/Ilha do Governador,Rua João Telles de Meneses,0,2,0,0,não,desconhecido
+26,8,20:30,Rio de Janeiro,Bangu,Estrada da Água Branca,0,1,0,0,não,Bebê 9 meses
+10,9,7:16,Rio de Janeiro,Vicente de Carvalho,Morro do Juramento,0,1,0,0,sim,criança 9 anos

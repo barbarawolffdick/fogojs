@@ -1,0 +1,38 @@
+dia,mes,hora,municipio,bairro,localidade,mortos,feridos,agentes mortos,agentes feridos
+18,2,-,São Gonçalo,Salgueiro,"Itaoca, Complexo do Salgueiro, São Gonçalo",4,0,0,0
+3,3,5:00,Itaboraí,Sossego,Rua dos Coqueiros I - Barreiro,4,1,0,0
+6,3,17:00,Duque de Caxias,Nova Campinas,Avenida B,3,0,0,0
+16,3,20:30,Rio de Janeiro,Complexo do Alemão,Nova Brasília,4,3,0,0
+19,3,20:34,São Gonçalo,Nova Cidade,Rua União,3,1,0,0
+23,3,3:00,Seropédica,-,Rodovia BR 465 (RIo-São Paulo),3,0,0,0
+24,3,5:59,Rio de Janeiro,Rocinha,Roupa Suja,8,0,0,0
+25,3,6:00,Maricá,Itaipuaçu,Conjunto Habitacional Minha Casa Minha Vida,5,0,0,0
+5,4,16:18,Belford Roxo,Piam,Morro do Castelar,4,0,0,0
+7,4,6:00,Rio de Janeiro,Santa Cruz,Avenida Cesário de Melo,4,0,0,0
+9,4,-,Nova Iguaçu,Centro,Rua Coronel Bernardino de Melo,4,0,0,0
+18,4,8:00,Duque de Caxias,Parque Paulista,Parque Paulista,3,0,0,0
+25,4,-,Queimados,São Bartolomeu,Rua alvorada ,3,0,0,0
+28,4,6:00,Duque de Caxias,Vila Oaperária,Travessa Governador Paulo Torres,5,0,0,0
+30,4,9:00,Rio de Janeiro,Santa Cruz,Favela do Rola,4,0,0,0
+3,5,8:46,Rio de janeiro,Cidade de Deus,Rua Quintanilha,4,2,0,1
+18,5,22:00,Rio de Janeiro,Lins de Vasconcelos,Complexo do Lins,8,0,0,0
+30,5,10:00,Rio de Janeiro,Caju,Complexo do Caju,4,0,0,0
+31,5,17:00,itaboraí,itaboraí,"BR 101, km 293",3,1,0,0
+8,6,-,Rio de Janeiro,Urca,Praia Vermelha,7,0,0,1
+8,6,8:00,Belford Roxo,Parque São José,-,3,0,0,0
+11,6,15:00,Duque de Caxias,Vila Centenário,Boca do Telhadinho ,3,0,0,0
+14,6,13:00,Belford Roxo,Centro,Morro da Palmeira,3,0,0,0
+15,6,13:00,Belford Roxo,Piam,Morro do Castelar,3,0,0,0
+20,6,9:44,Rio de Janeiro,Maré,Vila Pinheiro,7,0,0,0
+25,6,8:00,Maricá,Jacaroá,Estrada do Caju,3,0,0,0
+4,7,3:00,Queimados,-,Morro São Simão,5,0,0,0
+15,7,7:58,Rio de Janeiro,Complexo do Alemão,Serra da Misericórdia,5,0,0,0
+17,7,22:50,Rio de Janeiro,Pilares,Morro do Urubu,3,0,0,0
+21,7,10:00,Duque de Caxias,Jardim Capivari,Favela Vai Quem Quer,4,1,0,4
+2,8,8:00,Itaborai,Vila Brasil,Buraco da Cobra,4,0,0,0
+2,8,20:30,Mesquita,Juscelino ,Avenida São Paulo,3,0,0,0
+15,8,15:25,Belford Roxo,São Leopoldo,Comunidade São Leopoldo,3,0,0,0
+15,8,6:50,Niterói,Viradouro,Chiqueirinho,5,0,0,0
+20,8,5:02,Niterói,Fonseca,Alameda São Boaventura,6,4,0,1
+20,8,05:00 - 20:29,Rio de Janeiro,Penha,Complexo da Penha,5,0,2,0
+27,8,9:00,São Gonçalo,Jóquei ,Conjunto habitacional do Jóquei ,4,0,0,0

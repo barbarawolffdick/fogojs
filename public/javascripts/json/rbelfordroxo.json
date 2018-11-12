@@ -1,0 +1,485 @@
+[
+  {
+    "bairros": "São José",
+    "disparos": "42",
+    "presenca_policial": "5",
+    "mortos": "10",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Piam",
+    "disparos": "39",
+    "presenca_policial": "11",
+    "mortos": "9",
+    "feridos": "5"
+  },
+  {
+    "bairros": "Redentor",
+    "disparos": "36",
+    "presenca_policial": "4",
+    "mortos": "3",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Bom Pastor",
+    "disparos": "34",
+    "presenca_policial": "9",
+    "mortos": "5",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Centro",
+    "disparos": "28",
+    "presenca_policial": "4",
+    "mortos": "7",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Pauline",
+    "disparos": "22",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Glaucia",
+    "disparos": "18",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Santa Amélia",
+    "disparos": "16",
+    "presenca_policial": "1",
+    "mortos": "4",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Santa Tereza",
+    "disparos": "16",
+    "presenca_policial": "2",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vale do Ipê",
+    "disparos": "13",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vila Santa Teresa",
+    "disparos": "11",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Das Graças",
+    "disparos": "9",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Areia Branca",
+    "disparos": "8",
+    "presenca_policial": "0",
+    "mortos": "3",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Barro Vermelho",
+    "disparos": "8",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Heliópolis",
+    "disparos": "8",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Roseiral",
+    "disparos": "8",
+    "presenca_policial": "4",
+    "mortos": "0",
+    "feridos": "4"
+  },
+  {
+    "bairros": "Maringá",
+    "disparos": "7",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Andrade Araújo",
+    "disparos": "6",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "2"
+  },
+  {
+    "bairros": "Hiterland",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim São Bento",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Martinho",
+    "disparos": "5",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque São Vicente",
+    "disparos": "5",
+    "presenca_policial": "2",
+    "mortos": "3",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Não identificado",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Santa Marta",
+    "disparos": "4",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Nova Aurora",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Amorim",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Parque Floresta",
+    "disparos": "4",
+    "presenca_policial": "3",
+    "mortos": "1",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Santo Antônio da Prata",
+    "disparos": "4",
+    "presenca_policial": "3",
+    "mortos": "0",
+    "feridos": "6"
+  },
+  {
+    "bairros": "São Francisco de Assis",
+    "disparos": "4",
+    "presenca_policial": "0",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Wona",
+    "disparos": "4",
+    "presenca_policial": "2",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Belford Roxo",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "3"
+  },
+  {
+    "bairros": "Boa Sorte",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Jardim Ideal",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Leopoldo",
+    "disparos": "3",
+    "presenca_policial": "1",
+    "mortos": "3",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vila Rica",
+    "disparos": "3",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Chácara Santo Antônio",
+    "disparos": "2",
+    "presenca_policial": "1",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Gláucia",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Itaipu",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "3",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Nova Piam",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vila Dagmar",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "3",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Vilar Novo",
+    "disparos": "2",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "BNH",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Boa Esperança",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Boa Ventura",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Dois Irmãos",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Heliopolis",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Itaipu",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Jardim Silvana",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Lote XV",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Maringa",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Miguel Couto",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Aida",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Colonial",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "2",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Esperança",
+    "disparos": "1",
+    "presenca_policial": "1",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Parque Sao Bernardo",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Peixoto",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Retiro dos Califas",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Santa Maria",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Bernardo",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "São Vicente",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "1"
+  },
+  {
+    "bairros": "Shangri-lá",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Sitio Retiro Feliz",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Sublime",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vila Esperança",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Vila São Teodoro",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "0",
+    "feridos": "0"
+  },
+  {
+    "bairros": "Xavantes",
+    "disparos": "1",
+    "presenca_policial": "0",
+    "mortos": "1",
+    "feridos": "0"
+  },
+  {
+    "bairros": "\"Fonte: O Fogo Cruzado é um Data lab",
+    "disparos": " laboratório de dados sobre violência armada",
+    "presenca_policial": " que agrega e disponibiliza informações através de um aplicativo e mapa colaborativo\"",
+    "mortos": null,
+    "feridos": null
+  },
+  {
+    "bairros": "\"* Presença de Agentes: Situações em que são percebidas a presença de agentes de segurança durante o tiroteio/disparo. Exemplo: Operação",
+    "disparos": " Ação",
+    "presenca_policial": " Assalto a agentes etc                                \"",
+    "mortos": null,
+    "feridos": null
+  },
+  {
+    "bairros": "**Dados parciais até às 09 hrs do dia 15 de setembro",
+    "disparos": null,
+    "presenca_policial": null,
+    "mortos": null,
+    "feridos": null
+  }
+]

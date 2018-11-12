@@ -1,0 +1,42 @@
+periodo,municipio,disparos,presenca_policial,mortos,feridos
+antes,Rio de Janeiro,2518,274,384,460
+antes,São Gonçalo,447,57,167,108
+antes,Belford Roxo,147,9,46,18
+antes,Niterói,251,16,47,37
+antes,Duque de Caxias,181,16,35,36
+antes,Nova Iguaçu,151,9,79,30
+antes,São João de Meriti,104,2,26,27
+antes,Itaboraí,54,9,27,18
+antes,Mesquita,32,1,8,7
+antes,Itaguaí,36,2,6,1
+antes,Queimados,50,3,29,12
+antes,Japeri,12,0,4,2
+antes,Nilópolis,28,0,10,1
+antes,Magé,6,0,3,1
+antes,Seropédica,2,0,1,0
+antes,Maricá,12,2,10,7
+antes,Paracambi,1,0,0,0
+antes,Rio Bonito,0,0,0,0
+antes,Tanguá,1,0,0,2
+antes,Cachoeiras de Macacu,1,0,0,0
+antes,Guapimirim,4,0,1,0
+durante,Rio de Janeiro,3454,579,304,407
+durante,São Gonçalo,602,134,153,112
+durante,Belford Roxo,433,64,73,41
+durante,Niterói,330,58,61,42
+durante,Duque de Caxias,239,41,52,27
+durante,Nova Iguaçu,214,40,89,43
+durante,São João de Meriti,119,20,13,8
+durante,Itaboraí,103,20,35,21
+durante,Mesquita,79,7,9,4
+durante,Itaguaí,64,21,17,11
+durante,Queimados,55,8,31,7
+durante,Japeri,54,15,7,18
+durante,Nilópolis,48,4,2,2
+durante,Magé,22,2,7,5
+durante,Seropédica,16,0,7,2
+durante,Maricá,15,2,11,5
+durante,Paracambi,5,2,1,0
+durante,Rio Bonito,2,1,0,1
+durante,Tanguá,2,0,0,0
+durante,Cachoeiras de Macacu,1,0,0,0

@@ -1,0 +1,165 @@
+extends layout
+
+block content
+  //- h1= title
+  //- p Welcome to #{title}
+
+
+  .container
+    .card
+      h2 Ranking de disparos por bairros
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#rbairrosChart(width='800' height='450')
+      script.
+      
+        $.get('/users/bairros', function(disparos){
+          
+          new Chart(document.getElementById("rbairrosChart"), {
+              type: 'polarArea',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: true,
+                  position: 'left'
+                }
+                
+              }
+          });
+          
+        })
+
+    .card
+      h2 Ranking de disparos por municipio
+      p
+      canvas#rmunicipioChart(width='800' height='450')
+      script.
+      
+        $.get('/users/municipios', function(disparos){
+          
+          new Chart(document.getElementById("rmunicipioChart"), {
+              type: 'bar',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: false,
+                }
+                
+              }
+          });
+          
+        })
+
+    .card
+      h2 Ranking de disparos em Belford Roxo
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#rbelfordroxoChart(width='800' height='450')
+      script.
+      
+        $.get('/users/broxo', function(disparos){
+          
+          new Chart(document.getElementById("rbelfordroxoChart"), {
+              type: 'polarArea',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: true,
+                  position: 'left'
+                }
+                
+              }
+          });
+          
+        })
+
+    .card
+      h2 Ranking de disparos em Sao Gonçalo
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#rsaogoncaloChart(width='800' height='450')
+      script.
+      
+        $.get('/users/saogoncalo', function(disparos){
+          
+          new Chart(document.getElementById("rsaogoncaloChart"), {
+              type: 'polarArea',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: true,
+                  position: 'left'
+                }
+                
+              }
+          });
+          
+        })
+
+    .card
+      h2 Ranking de disparos em Sao Gonçalo
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#ruppChart(width='800' height='450')
+      script.
+      
+        $.get('/users/upp', function(disparos){
+          
+          new Chart(document.getElementById("ruppChart"), {
+              type: 'polarArea',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: true,
+                  position: 'left'
+                }
+                
+              }
+          });
+          
+        })

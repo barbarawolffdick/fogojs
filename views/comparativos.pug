@@ -1,0 +1,76 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+  .container
+    .card
+      h2 Municipios em 2017 x 2018
+      canvas#municipio1718(width='800' height='450')
+      script.
+        new Chart(document.getElementById("municipio1718"), {
+            type: 'bar',
+            data: {
+              labels: ["1900", "1950", "1999", "2050"],
+              datasets: [
+                {
+                  label: "Africa",
+                  backgroundColor: "#ff6200",
+                  data: [133,221,783,2478]
+                }, {
+                  label: "Europe",
+                  backgroundColor: "#005bac",
+                  data: [408,547,675,734]
+                }
+              ]
+            },
+            options: {
+              title: {
+                display: true,
+                text: 'Population growth (millions)'
+              }
+            }
+        });
+    .card
+      h2 Bairros em 2017 x 2018
+      canvas#bairros1718(width='800' height='450')
+      script.
+        new Chart(document.getElementById("bairros1718"), {
+            type: 'bar',
+            data: {
+              labels: ["1900", "1950", "1999", "2050"],
+              datasets: [{
+                  label: "Europe",
+                  type: "line",
+                  borderColor: "#ff6200",
+                  data: [408,547,675,734],
+                  fill: false
+                }, {
+                  label: "Africa",
+                  type: "line",
+                  borderColor: "#005bac",
+                  data: [133,221,783,2478],
+                  fill: false
+                }, {
+                  label: "Europe",
+                  type: "bar",
+                  backgroundColor: "rgba(0,0,0,0.4)",
+                  data: [408,547,675,734],
+                }, {
+                  label: "Africa",
+                  type: "bar",
+                  backgroundColor: "rgba(0,0,0,0.2)",
+                  backgroundColorHover: "#3e95cd",
+                  data: [133,221,783,2478]
+                }
+              ]
+            },
+            options: {
+              title: {
+                display: true,
+                text: 'Population growth (millions): Europe & Africa'
+              },
+              legend: { display: false }
+            }
+        });

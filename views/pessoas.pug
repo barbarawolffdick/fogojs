@@ -1,0 +1,46 @@
+extends layout
+
+block content
+  //- h1= title
+  //- p Welcome to #{title}
+  
+  .container
+    .card 
+      h2 Motivação de óbitos de agentes de segurança
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#ag_seg(width='800' height='450')
+      script.
+      
+        $.get('/users/agentesmortos', function(agentes_mortos){
+          
+          new Chart(document.getElementById("ag_seg"), {
+              type: 'radar',
+              data: {
+                labels: agentes_mortos.labels,
+                datasets: [
+                  {
+                    label: "Motivo",
+                    fill: true,
+                    backgroundColor: "rgba(255, 116, 61,0.2)",
+                    borderColor: "rgba(255, 73, 0,1)",
+                    pointBorderColor: "rgba(94, 197, 226, 1)",
+                    pointBackgroundColor: "rgba(4, 133, 169,1)",
+                    data: agentes_mortos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: false,
+                  position: 'left'
+                }
+                
+              }
+              });
+            }) 
+
+    .card 
+      h2 Crianças e Adolescentes atingidos
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.              

@@ -1,0 +1,71 @@
+dia,mes,hora,municipio,bairro,localidade,atingidos,mortos,feridos,agentes mortos,agentes feridos,presenca_policial,motivo
+16,3,20:30,Rio de Janeiro,Complexo do Alemão,Nova Brasília,4,3,1,0,0,sim,Bala Perdida
+24,2,20:00,Rio de Janeiro,Copacabana,Morro do Cantagalo ,1,1,0,0,0,não,Bala Perdida
+9,3,6:20,Rio de Janeiro,Praça Seca,Menezes - Travessa Antonina,1,1,0,0,0,sim,Bala Perdida
+14,5,17:00,Rio de Janeiro,Rocinha,Valão,2,1,1,0,0,sim,Bala Perdida
+6,6,15:00,Rio de Janeiro,Catumbi,Morro da Coroa,1,1,0,0,0,não,Bala Perdida
+20,6,9:44,Rio de Janeiro,Maré,Vila Pinheiro,1,1,0,0,0,sim,Bala Perdida
+5,7,14:35,Nova Iguaçu,Centro,Rua Dom Walmor,2,1,1,0,0,sim,Bala Perdida
+20,7,21:03,Rio de Janeiro,Manguinhos,Avenida dos Democráticos,1,1,0,0,0,sim,Bala Perdida
+3,8,7:00,Rio de Janeiro,Jardim América,Furquim Mendes,1,1,0,0,0,sim,Bala Perdida
+8,8,9:00,Rio de Janeiro,Manguinhos,Rua Uranos,1,1,0,0,0,não,Bala Perdida
+14,8,7:50,Rio de Janeiro,Santa Teresa,Morro do Fallet,1,1,0,0,0,sim,Bala Perdida
+21,8,13:00,São João de Meriti,São João de Meriti,Centro,1,1,0,0,0,não,Bala Perdida
+24,8,-,Rio de Janeiro,Costa Barros,-,3,1,2,0,0,desconhecido,Bala Perdida
+27,8,7:45,Rio de Janeiro,Triagem,Bairro Carioca/Rocha,1,1,0,0,0,sim,Bala Perdida
+9,9,3:00,Itaboraí,Calundu,BR-101,2,1,1,0,0,sim,Bala Perdida
+10,9,3:00,Duque de Caxias,Piriquitos,Complexo da Mangueirinha,1,1,0,0,0,sim,Bala Perdida
+21,2,-,Duque de Caxias,Imbariê,Imbariê, Duque de Caxias,1,0,1,0,0,sim,Bala Perdida
+24,2,9:30,Rio de Janeiro,Copacabana,Morro do Cantagalo ,1,0,1,0,0,desconhecido,Bala Perdida
+9,3,20:00,Rio de Janeiro,Engenho da Rainha,Rua Bororó 63,1,0,1,0,0,Não,Bala Perdida
+19,3,20:34,São Gonçalo,Nova Cidade,Rua União,1,0,1,0,0,não,Bala Perdida
+28,3,-,Nova Iguaçu,Caioaba,Caioaba,1,0,1,0,0,não,Bala Perdida
+9,4,-,Rio de Janeiro,Madureira,Rua Riacho Doce,1,0,1,0,0,não,Bala Perdida
+9,4,12:35,Rio de Janeiro,Madureira,Morro da Serrinha,1,0,1,0,0,não,Bala Perdida
+11,4,12:10,Rio de Janeiro,Jacaré,Jacarezinho,1,0,1,0,0,sim,Bala Perdida
+13,4,7:30,Rio de Janeiro,Santo Cristo,Avenida Francisco Bicalho,1,0,1,0,0,não,Bala Perdida
+19,4,9:00,São Gonçalo,Boaçu,-,1,0,1,0,0,não,Bala Perdida
+19,4,8:20,Rio de Janeiro,Santa Teresa,Morro do Fallet-Fogueteiro,1,0,1,0,0,não,Bala Perdida
+25,4,15:00,Rio de Janeiro,Cavalcanti,Rua Herculano Pena,1,0,1,0,0,não,Bala Perdida
+25,4,14:00,Belford Roxo,Jardim Ipê,-,1,0,1,0,0,desconhecido,Bala Perdida
+25,4,10:00,São Gonçalo,Santa Catarina,Rua Doutor Getúlio Vargas,2,0,2,0,0,não,Bala Perdida
+26,4,8:56,Rio de Janeiro,Maré,Avenida Brasil,1,0,1,0,0,não,Bala Perdida
+27,4,-,Rio de Janeiro,Engenho Novo,Morro do Quieto,2,0,2,0,0,não,Bala Perdida
+28,4,20:00,Rio de Janeiro,Rocha Miranda,Favela da Barreirinha,1,0,1,0,0,não,Bala Perdida
+10,5,10:00,Rio de Janeiro,Centro,Visconde de Inhaúma,2,0,2,0,0,não,Bala Perdida
+12,5,3:00,Rio de janeiro,Maré,Linha Vermelha,1,0,1,0,1,não,Bala Perdida
+13,5,21:00,São Gonçalo,Pita /Sete Pontes,Rua Doutor Pio Borges,2,0,2,0,0,não,Bala Perdida
+15,5,20:00,Rio de Janeiro,Cosme Velho,Colégio São Vicente de Paulo,1,0,1,0,0,não,Bala Perdida
+19,5,4:00,Rio de Janeiro,Vila isabel,Rua Barão de São Francisco,2,0,2,0,0,sim,Bala Perdida
+7,6,11:05,Rio de Janeiro,Vila Isabel,Morro dos Macacos, Rua Tôrres Homem,2,0,2,0,0,sim,Bala Perdida
+28,6,15:00,Rio de Janeiro,Laranjeiras,Júlio Otoni,1,0,1,0,0,não,Bala Perdida
+23,1,11:00,Duque de Caxias,Jardim Olimpo,Br 040,1,0,1,0,0,não,Bala Perdida
+7,7,15:00,São Gonçalo,Sacramento,-,2,0,2,0,0,sim,Bala Perdida
+22,7,7:08,Rio de Janeiro,Realengo,Rua Bernardo de Vasconcelos,3,0,3,0,0,não,Bala Perdida
+24,7,8:00,Belford Roxo,Santo Antônio da Prata,Rua Clóvis Beviláqua,1,0,1,0,0,sim,Bala Perdida
+15,7,22:00,Rio de Janeiro,Rocha,-,0,0,0,0,0,não,Bala Perdida
+27,7,17:10,Rio de Janeiro,Bangu,Vila Kennedy,1,0,1,0,0,sim,Bala Perdida
+27,7,23:25,Rio de Janeiro,Bangu,Vila Aliança,1,0,1,0,0,desconhecido,Bala Perdida
+28,7,17:18,Rio de Janeiro,Rocinha,99,2,0,2,0,0,sim,Bala Perdida
+31,7,15:00,Rio de Janeiro,Rocinha,Avenida Niemeyer,1,0,1,0,0,sim,Bala Perdida
+5,8,6:00,Rio de Janeiro,Freguesia/Ilha do Governador,Rua João Telles de Meneses,3,0,3,0,0,não,Bala Perdida
+7,8,20:42,Rio de Janeiro,Santa Cruz,Avenida Ucrânia / Aço e Antares,0,0,0,0,0,desconhecido,Bala Perdida
+8,8,-,Rio de Janeiro,Madureira,R. Domingos Lopes ,2,0,2,0,0,não,Bala Perdida
+8,8,15:40,Rio de Janeiro,Vila Kennedy,Rua Joaquim Pires Cerveira,1,0,1,0,0,não,Bala Perdida
+8,8,15:30,Duque de Caxias,Centro,Av. Brg. Lima e Silva ,1,0,1,0,0,não,Bala Perdida
+11,8,1:50,Niterói,Santa Rosa,Morro Souza Soares,1,0,1,0,0,não,Bala Perdida
+12,8,15:00,Rio de Janeiro,Paciência,Estação Tancredo Neves,1,0,1,0,0,não,Bala Perdida
+16,8,8:00,Niterói,Vital Brasil,Maestro José Botelho,0,0,0,0,0,não,Bala Perdida
+18,8,5:30,Rio de Janeiro,Vila Isabel,Morro dos Macacos,0,0,0,0,0,não,Bala Perdida
+21,8,12:24,Belford Roxo,Parque Amorim ,Rua Alameda Argentina,1,0,1,0,0,não,Bala Perdida
+22,8,2:00,Niterói,Vital Brasil,Maestro José Botelho,0,0,0,0,0,não,Bala Perdida
+23,8,8:00,Belford Roxo,Jardim Redentorl,Avenida Automóvel Clube,1,0,1,0,0,sim,Bala Perdida
+26,8,20:30,Rio de Janeiro,Bangu,Estrada da Água Branca,1,0,1,0,0,não,Bala Perdida
+5,9,5:00,Rio de Janeiro,Gávea,Túnel Zuzu Angel,1,0,1,0,0,não,Bala Perdida
+5,9,8:10,Rio de Janeiro,Tijuca,Muda,0,0,0,0,0,sim,Bala Perdida
+5,9,15:30,Rio de Janeiro,Copacabana,-,0,0,0,0,0,desconhecido,Bala Perdida
+5,9,10:20,Niterói,Centro,Rua José Clemente,2,0,2,0,0,sim,Bala Perdida
+10,9,15:00,Rio de Janeiro,Marechal Hermes,Rua Carandaí,1,0,1,0,0,não,Bala Perdida
+10,9,7:16,Rio de Janeiro,Vicente de Carvalho,Morro do Juramento,1,0,1,0,0,sim,Bala Perdida
+9,9,19:58,Rio de Janeiro,Tijuca,Morro do Borel,2,0,2,0,0,sim,Bala Perdida
+13,9,14:00,Rio de Janeiro ,Bonsucesso ,Rua Cardoso de Morais ,1,0,1,0,0,não,Bala Perdida

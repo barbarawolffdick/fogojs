@@ -1,0 +1,143 @@
+bairros,disparos,presenca_policial,mortos,feridos
+Vila Kennedy,217,21,5,13
+Praça Seca,181,24,10,11
+Complexo do Alemão,150,31,13,14
+Cidade de Deus,140,25,9,7
+Tijuca,134,12,3,10
+Rocinha,111,30,19,14
+Santa Cruz,96,9,7,2
+Realengo,85,6,7,6
+Taquara,85,7,5,5
+Pavuna,80,10,4,4
+Maré,77,12,7,12
+Copacabana,76,15,3,10
+Bangu,73,10,14,11
+Vicente de Carvalho,62,13,4,7
+Penha,58,13,10,5
+Vila Isabel,58,16,2,13
+Engenho Novo,56,9,4,11
+Vidigal,52,10,0,3
+Madureira,51,14,4,5
+Tanque,51,10,0,1
+Anchieta,46,7,0,3
+Cordovil,46,7,3,2
+Rio Comprido,46,6,3,4
+Manguinhos,44,11,4,3
+Botafogo,41,6,3,5
+Guadalupe,37,8,2,7
+Acari,34,21,8,3
+Leme,34,8,1,3
+Piedade,34,5,4,2
+Lins de Vasconcelos,31,8,9,1
+Quintino Bocaiúva,31,2,1,7
+Santa Teresa,31,10,2,5
+Campo Grande,30,3,5,5
+Gambôa,30,12,0,4
+Costa Barros,28,3,1,4
+Cascadura,25,0,4,5
+Penha Circular,25,7,0,3
+Jacarezinho,24,7,0,4
+Caju,23,6,6,2
+Catumbi,23,7,2,3
+Irajá,22,2,5,2
+Méier,22,3,2,9
+Sampaio,22,3,1,0
+São Cristóvão,22,6,2,6
+Senador Camará,22,2,0,0
+Cavalcanti,21,3,3,3
+Estácio,21,9,3,3
+Pilares,21,4,2,3
+Barra da Tijuca,20,1,6,11
+Honório Gurgel,20,3,4,2
+Padre Miguel,20,2,3,4
+Andaraí,19,0,0,3
+Benfica,19,4,2,2
+Rocha Miranda,19,2,2,4
+Tomás Coelho,18,0,2,2
+Galeão,16,3,2,3
+Jacaré,16,6,0,1
+Vila da Penha,16,0,2,7
+Barros Filho,15,5,2,1
+Jacarepaguá,15,2,2,2
+Paciência,15,0,2,1
+Parada de Lucas,15,5,2,2
+Cachambi,14,1,3,4
+Centro,14,4,1,6
+Jardim América,14,5,0,1
+Mangueira,14,1,0,0
+Marechal Hermes,14,0,2,1
+Brás de Pina,13,1,2,3
+Olaria,13,2,0,1
+Vila Valqueire,13,0,0,0
+Colégio,12,2,2,4
+Ricardo de Albuquerque,12,2,1,0
+Rocha,12,1,1,5
+Váz Lobo,12,0,2,0
+Vigário Geral,11,2,2,0
+Campinho,10,2,3,0
+Deodoro,10,1,0,2
+Freguesia (Jacarepaguá),10,2,2,1
+Itanhangá,10,3,1,0
+Bento Ribeiro,9,0,2,0
+Engenho de Dentro,9,0,4,0
+Jardim Carioca,9,1,1,0
+Ramos,9,1,2,3
+Recreio dos Bandeirantes,9,1,3,0
+Glória,8,1,0,2
+Grajaú,8,1,1,0
+Ipanema,8,2,1,0
+Laranjeiras,8,2,2,4
+Todos os Santos,8,2,1,0
+Anil,7,1,1,2
+Catete,7,2,2,1
+Cidade Universitária,7,1,1,3
+Coelho Neto,7,1,1,1
+Del Castilho,7,5,1,4
+Santíssimo,7,0,0,1
+Água Santa,6,1,0,2
+Bonsucesso,6,0,0,3
+Encantado,6,0,0,0
+Flamengo,6,3,0,2
+Inhaúma,6,1,0,0
+Oswaldo Cruz,6,0,0,1
+Pechincha,6,1,0,3
+Santo Cristo,6,1,0,1
+Gardênia Azul,5,0,4,5
+Parque Anchieta,5,2,0,0
+Vila Cosmos,5,1,1,1
+Cosmos,4,0,1,1
+Engenho da Rainha,4,1,0,3
+Gávea,4,2,0,6
+Inhoaíba,4,0,2,0
+Portuguesa,4,0,0,0
+Turiaçu,4,1,0,1
+Engenheiro Leal,3,0,0,0
+Higienópolis,3,1,0,2
+Leblon,3,1,0,3
+Magalhães Bastos,3,0,2,0
+Maracanã,3,0,0,1
+Riachuelo,3,0,0,0
+São Conrado,3,0,0,0
+Tauá,3,1,0,0
+Urca,3,1,7,3
+Vista Alegre,3,0,1,0
+Abolição,2,0,0,0
+Cidade Nova,2,0,0,0
+Curicica,2,0,0,0
+Guaratiba,2,0,0,0
+Lagoa,2,1,2,5
+Praça da Bandeira,2,0,0,0
+São Francisco Xavier,2,1,1,0
+Sepetiba,2,0,0,0
+Alto da Boa Vista,1,1,1,0
+Cosme Velho,1,0,0,1
+Freguesia (Ilha do Governador),1,0,0,3
+Heliópolis,1,1,0,0
+Inhauma,1,0,0,0
+Jardim Botânico,1,0,0,0
+Jardim Guanabara,1,0,0,1
+Largo do Machado,1,0,0,0
+Pitangueiras,1,0,0,0
+Praca da Bandeira,1,1,0,0
+Vargem Pequena,1,0,0,0
+Vasco da Gama,1,0,0,0

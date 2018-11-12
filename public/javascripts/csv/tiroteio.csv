@@ -1,0 +1,50 @@
+dia;mes;bairro;horario inicial;horario termino;duracao;presenca_policial;mortes;civis mortos;civis feridos;agentes mortos;agentes feridos
+16;2;Vila Kennedy;8:45;16:39;7:54:00;não;0;0;0;0;0
+20;2;Vila Kennedy;6:30;12:54;6:24:00;não;0;0;0;0;0
+21;2;Imbariê, Duque de Caxias;14:39;17:15;2:36:00;sim;1;1;2;0;0
+22;2;Complexo da Maré;10:53;13:24;2:31:00;sim;0;0;0;0;0
+23;2;Complexo do Alemão;9:53;12:51;2:58:00;não;0;0;0;0;0
+28;2;Vila Kennedy;8:16;11:08;2:52:00;não;0;0;0;0;0
+5;3;Vila Kennedy;9:08;11:24;2:16:00;sim;0;0;0;0;0
+7;3;Complexo do Lins;12:30;15:53;3:23:00;não;0;0;0;0;0
+9;3;Morro do Trem, Vicente de Carvalho;19:28;21:45;2:17:00;não;0;0;0;0;0
+10;3;Vila Aliança, Bangu;13:39;16:33;2:54:00;não;1;1;1;0;0
+13;3;Bateau Mouche, Praca Seca;18:43;21:53;3:10:00;não;0;0;0;0;0
+13;3;Morro da Palmeira, Belford Roxo;12:00;21:38;9:38:00;não;0;0;0;0;0
+14;3;Bateau Mouche, Praca Seca;19:58;0:11;4:13:00;não;0;0;0;0;0
+15;3;Morro da Formiga;6:44;8:51;2:07:00;não;0;0;0;0;0
+17;3;Rocinha;8:53;15:31;6:38:00;sim;0;0;0;0;0
+17;3;Complexo do Alemão;12:51;19:34;6:43:00;não;0;0;0;0;0
+17;3;Bateau Mouche, Praca Seca;12:51;19:48;6:57:00;não;0;0;0;0;0
+18;3;Bateau Mouche, Praca Seca;11:35;0:55;13:20:00;não;0;0;0;0;0
+26;3;Rocinha, Rio de Janeiro;6:39;9:40;3:01:00;sim;1;1;0;0;0
+26;3;Bateau Mouche, Praca Seca;4:36;21:26;16:50:00;sim;0;0;1;0;0
+5;4;Morro do Castelar, Belford Roxo;16:18;21:35;5:17:00;sim;4;4;0;0;0
+9;4;Serrinha, Madureira;9:12;12:35;3:23:00;sim;0;0;2;0;0
+11;4;Jacarezinho;8:45;11:01;2:16:00;sim;0;0;1;0;0
+12;4;Complexo do Alemão;6:00;9:01;3:01:00;sim;0;0;0;0;0
+23;4;Jacaré;7:45;9:50;2:05:00;não;0;0;0;0;0
+28;4;Bateau Mouche, Praca Seca;6:43;9:27;2:44:00;sim;1;0;0;1;0
+6;5;Terreirão, Rocinha;21:17;23:36;2:19:00;sim;0;0;0;0;0
+7;5;Proença Rosa, Realengo;20:26;23:02;2:36:00;não;0;0;0;0;0
+9;5;Rocinha;15:00;17:00;2:00:00;sim;1;0;2;1;1
+14;5;Morro do Dezoito;6:54;9:02;2:08:00;desconhecido;0;0;0;0;1
+18;5;São José Operário, Praça Seca;8:28;10:34;2:06:00;sim;0;0;0;0;0
+1;6;Jardim do Ipê, Belford Roxo (relato usuário);7:00;9:00;2:00:00;não;0;0;0;0;0
+6;5;Complexo do Salgueiro, Itaúna - São Gonçalo;6:25;11:00;4:35:00;não;0;0;0;0;0
+20;6;Pavão Pavãozinho e Cantagalo;6:38;9:03;2:25:00;sim;0;0;0;0;0
+24;6;Parada Angélica, Duque de Caxias;7:00;9:00;2:00:00;sim;0;0;0;0;0
+28;6;Manguinhos;18:14;23:16;5:02:00;desconhecido;0;0;0;0;0
+29;6;Morro do Jordão, Taquara;0:42;0:30;23:48:00;desconhecido;0;0;0;0;0
+2;7;Morro do Jordão, Taquara;1:45;7:31;5:46:00;desconhecido;0;0;0;0;0
+9;7;Jacarezinho;14:02;16:06;2:04:00;sim;0;0;0;0;0
+20;7;Morro dos Macacos, Vila Isabel;0:56;5:41;4:45:00;desconhecido;0;0;0;0;0
+22;7;Parque São José, Belford Roxo;18:05;20:05;2:00:00;não;0;0;0;0;0
+29;7;Complexo do Rodo, Santa Cruz;9:46;11:46;2:00:00;sim;0;0;0;0;0
+30;7;Complexo do Rodo, Antares, Santa Cruz;16:55;19:55;3:00:00;sim;0;0;0;0;0
+2;8;Antares, Santa Cruz;18:08;23:08;5:00:00;não;0;0;0;0;0
+3;8;Parada de Lucas;13:40;17:29;3:49:00;sim;1;1;2;0;0
+12;8;Complexo do Rodo, Santa Cruz;18:30;20:30;2:00:00;não;0;0;0;0;0
+14;8;Coroa, Fallet-Fogueteiro, Santa Teresa;5:50;7:50;2:00:00;sim;0;0;0;0;0
+15;8;Morro da Serrinha;4:30;7:30;3:00:00;sim;0;0;0;0;0
+20;8;Complexo da Penha;5:00;20:29;15:29:00;sim;7;5;0;2;0
