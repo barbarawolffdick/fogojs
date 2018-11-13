@@ -15,7 +15,7 @@ dia,mes,hora,municipio,bairro,localidade,atingidos,mortos,feridos,agentes mortos
 27,8,7:45,Rio de Janeiro,Triagem,Bairro Carioca/Rocha,1,1,0,0,0,sim,Bala Perdida
 9,9,3:00,Itaboraí,Calundu,BR-101,2,1,1,0,0,sim,Bala Perdida
 10,9,3:00,Duque de Caxias,Piriquitos,Complexo da Mangueirinha,1,1,0,0,0,sim,Bala Perdida
-21,2,-,Duque de Caxias,Imbariê,Imbariê, Duque de Caxias,1,0,1,0,0,sim,Bala Perdida
+21,2,-,Duque de Caxias,Imbariê,Duque de Caxias,1,0,1,0,0,sim,Bala Perdida
 24,2,9:30,Rio de Janeiro,Copacabana,Morro do Cantagalo ,1,0,1,0,0,desconhecido,Bala Perdida
 9,3,20:00,Rio de Janeiro,Engenho da Rainha,Rua Bororó 63,1,0,1,0,0,Não,Bala Perdida
 19,3,20:34,São Gonçalo,Nova Cidade,Rua União,1,0,1,0,0,não,Bala Perdida
@@ -37,7 +37,7 @@ dia,mes,hora,municipio,bairro,localidade,atingidos,mortos,feridos,agentes mortos
 13,5,21:00,São Gonçalo,Pita /Sete Pontes,Rua Doutor Pio Borges,2,0,2,0,0,não,Bala Perdida
 15,5,20:00,Rio de Janeiro,Cosme Velho,Colégio São Vicente de Paulo,1,0,1,0,0,não,Bala Perdida
 19,5,4:00,Rio de Janeiro,Vila isabel,Rua Barão de São Francisco,2,0,2,0,0,sim,Bala Perdida
-7,6,11:05,Rio de Janeiro,Vila Isabel,Morro dos Macacos, Rua Tôrres Homem,2,0,2,0,0,sim,Bala Perdida
+7,6,11:05,Rio de Janeiro,Vila Isabel, Rua Tôrres Homem,2,0,2,0,0,sim,Bala Perdida
 28,6,15:00,Rio de Janeiro,Laranjeiras,Júlio Otoni,1,0,1,0,0,não,Bala Perdida
 23,1,11:00,Duque de Caxias,Jardim Olimpo,Br 040,1,0,1,0,0,não,Bala Perdida
 7,7,15:00,São Gonçalo,Sacramento,-,2,0,2,0,0,sim,Bala Perdida

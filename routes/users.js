@@ -186,4 +186,68 @@ router.get('/chacinas', function(req, res, next) {
   })
 });
 
+/* Spider chart regioes mortes chacinas*/
+router.get('/bala_perdida', function(req, res, next) {
+  csvRead('bala_perdida', function(data) {
+    const output = { labels: [], values: [] }
+    const group = {}
+
+    data.forEach(function(el){ // transforma disparos em Int (é string)
+      if (parseInt(el.atingidos) != 0) {
+        if (group[el.bairro] == null) group[el.bairro] = 0
+        group[el.bairro] = group[el.bairro] + parseInt(el.atingidos)
+        return el
+      }
+    })
+
+    for (key in group) {
+      if (group[key] > 2){
+        output.labels.push(key)
+        output.values.push(group[key])
+      }
+    }
+
+    res.send(output) // envia o objeto final
+  })
+});
+
+
+/* Spider chart regioes mortes chacinas*/
+router.get('/tiroteios', function(req, res, next) {
+  csvRead('tiroteio', function(data) {
+    const output = { labels: [], values: [] }
+    const bala = []
+
+    data.forEach(function(tiroteio){
+      bala.push({
+        label: tiroteio.bairro + " " + tiroteio.duracao,
+        data: [
+          {
+            x: parseInt(tiroteio.mes),
+            y: parseInt(tiroteio.dia),
+            r: (parseInt(tiroteio.duracao.replace(/:/g, '')) / 10000)
+          }
+        ]
+      })
+    })
+
+    // data.forEach(function(el){ // transforma disparos em Int (é string)
+    //   if (parseInt(el.atingidos) != 0) {
+    //     if (group[el.bairro] == null) group[el.bairro] = 0
+    //     group[el.bairro] = group[el.bairro] + parseInt(el.atingidos)
+    //     return el
+    //   }
+    // })
+    //
+    // for (key in group) {
+    //   if (group[key] > 2){
+    //     output.labels.push(key)
+    //     output.values.push(group[key])
+    //   }
+    // }
+
+    res.send(bala) // envia o objeto final
+  })
+});
+
 module.exports = router;

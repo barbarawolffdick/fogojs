@@ -50,12 +50,12 @@ block content
       canvas#bala_perdida(width='800' height='450')
       script.
       
-        $.get('/users/chacinas', function(mortes_chacinas){
+        $.get('/users/bala_perdida', function(bala){
           
           new Chart(document.getElementById("bala_perdida"), {
               type: 'radar',
               data: {
-                labels: mortes_chacinas.labels,
+                labels: bala.labels,
                 datasets: [
                   {
                     label: "Regiões",
@@ -64,7 +64,7 @@ block content
                     borderColor: "rgba(255, 73, 0,1)",
                     pointBorderColor: "rgba(94, 197, 226, 1)",
                     pointBackgroundColor: "rgba(4, 133, 169,1)",
-                    data: mortes_chacinas.values
+                    data: bala.values
                   }
                 ]
               },
@@ -81,3 +81,19 @@ block content
     .card 
       h2 Duração de tiroteios
       p Esta tabela nos mostra os 20 tiroteios mais longos do periodo. No total, houveram xx tiroteios. O mais curto registrado durou cerca de xxxx horas e o mais longo chegou a 24 horas.
+      canvas#chartjs-6(width='800' height='450')
+      script.
+        $.get('/users/tiroteios', function(bala){
+          new Chart(document.getElementById("chartjs-6"), {
+            "type":"bubble",
+            "data": {
+              "datasets":bala
+          },
+          options: {
+            legend: {
+              display: false,
+              position: 'left'
+            }
+          }
+          });
+        })
