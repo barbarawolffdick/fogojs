@@ -14,7 +14,7 @@ block content
       canvas#rbairrosChart(width='800' height='450')
       script.
       
-        $.get('/users/bairros', function(disparos){
+        $.get('/data/bairros', function(disparos){
           
           new Chart(document.getElementById("rbairrosChart"), {
               type: 'polarArea',
@@ -45,7 +45,7 @@ block content
       canvas#rmunicipioChart(width='800' height='450')
       script.
       
-        $.get('/users/municipios', function(disparos){
+        $.get('/data/municipios', function(disparos){
           
           new Chart(document.getElementById("rmunicipioChart"), {
               type: 'bar',
@@ -76,7 +76,7 @@ block content
       canvas#rbelfordroxoChart(width='800' height='450')
       script.
       
-        $.get('/users/broxo', function(disparos){
+        $.get('/data/broxo', function(disparos){
           
           new Chart(document.getElementById("rbelfordroxoChart"), {
               type: 'polarArea',
@@ -108,7 +108,7 @@ block content
       canvas#rsaogoncaloChart(width='800' height='450')
       script.
       
-        $.get('/users/saogoncalo', function(disparos){
+        $.get('/data/saogoncalo', function(disparos){
           
           new Chart(document.getElementById("rsaogoncaloChart"), {
               type: 'polarArea',
@@ -140,7 +140,7 @@ block content
       canvas#ruppChart(width='800' height='450')
       script.
       
-        $.get('/users/upp', function(disparos){
+        $.get('/data/upp', function(disparos){
           
           new Chart(document.getElementById("ruppChart"), {
               type: 'polarArea',

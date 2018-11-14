@@ -1,8 +1,9 @@
 extends layout
 
 block content
-  //- h1= title
-  //- p Welcome to #{title}
+  .container
+    h1 Ranking de disparos por regiões 
+    p Nos cinco gráficos abaixo é possível visualizar as 10 regiões mais atingidas em cada grande grupo. A cidade do Rio de Janeiro é a campeã em disparos totais, seguida por São Gonçalos, Belford Roxo, Niterório e Duque de Caxias para fechar a lista dos cinco municipios mais intensos.
   
   .container
     .card 
@@ -12,7 +13,7 @@ block content
       canvas#ag_seg(width='800' height='450')
       script.
       
-        $.get('/users/agentesmortos', function(agentes_mortos){
+        $.get('/data/agentesmortos', function(agentes_mortos){
           
           new Chart(document.getElementById("ag_seg"), {
               type: 'radar',
@@ -41,6 +42,65 @@ block content
             }) 
 
     .card 
-      h2 Crianças e Adolescentes atingidos
+      h2 Crianças atingidas
       p.
-        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.              
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#criancasChart(width='800' height='450')
+      script.
+      
+        $.get('/data/criancas', function(disparos){
+          
+          new Chart(document.getElementById("criancasChart"), {
+              type: 'polarArea',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: true,
+                  position: 'left'
+                }
+                
+              }
+          });
+          
+        })
+
+    .card 
+      h2 Adolescentes atingidos
+      p.
+        Este gráfico nos mostra os bairros de toda região metropolitana onde temos as maiores incidencias de disparos. Dos dez mais violentos, nove estão localizados na cidade do Rio de Janeiro.
+      canvas#adolescentesChart(width='800' height='450')
+      script.
+      
+        $.get('/data/adolescentes', function(disparos){
+          
+          new Chart(document.getElementById("adolescentesChart"), {
+              type: 'polarArea',
+              data: {
+                labels: disparos.labels,
+                datasets: [
+                  {
+                    label: "Disparos",
+                    backgroundColor: ["#ff9a5b", "#0485A9","#FF743D","#5EC5E2","#c45850","#16A2CA", "#E45700","#8DD9EE","#ff6200","#005bac"],
+                    data: disparos.values
+                  }
+                ]
+              },
+              options: {
+                legend: {
+                  display: true,
+                  position: 'left'
+                }
+                
+              }
+          });
+          
+        })

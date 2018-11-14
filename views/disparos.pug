@@ -1,13 +1,9 @@
 extends layout
 
-mixin graphcard(cardData)
-  .card 
-    h2= cardData.title
-    p= cardData.about
-
 block content
-  h1= title
-  p Welcome to #{title}
+  .container
+    h1 Ranking de disparos por regiões 
+    p Nos cinco gráficos abaixo é possível visualizar as 10 regiões mais atingidas em cada grande grupo. A cidade do Rio de Janeiro é a campeã em disparos totais, seguida por São Gonçalos, Belford Roxo, Niterório e Duque de Caxias para fechar a lista dos cinco municipios mais intensos.
   
   .container
     .card 
@@ -17,7 +13,7 @@ block content
       canvas#chacinas(width='800' height='450')
       script.
       
-        $.get('/users/chacinas', function(mortes_chacinas){
+        $.get('/data/chacinas', function(mortes_chacinas){
           
           new Chart(document.getElementById("chacinas"), {
               type: 'radar',
@@ -50,7 +46,7 @@ block content
       canvas#bala_perdida(width='800' height='450')
       script.
       
-        $.get('/users/bala_perdida', function(bala){
+        $.get('/data/bala_perdida', function(bala){
           
           new Chart(document.getElementById("bala_perdida"), {
               type: 'radar',
@@ -83,7 +79,7 @@ block content
       p Esta tabela nos mostra os 20 tiroteios mais longos do periodo. No total, houveram xx tiroteios. O mais curto registrado durou cerca de xxxx horas e o mais longo chegou a 24 horas.
       canvas#chartjs-6(width='800' height='450')
       script.
-        $.get('/users/tiroteios', function(bala){
+        $.get('/data/tiroteios', function(bala){
           new Chart(document.getElementById("chartjs-6"), {
             "type":"bubble",
             "data": {

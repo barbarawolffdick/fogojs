@@ -1,76 +1,101 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  .container
+    h1 Ranking de disparos por regiões 
+    p Nos cinco gráficos abaixo é possível visualizar as 10 regiões mais atingidas em cada grande grupo. A cidade do Rio de Janeiro é a campeã em disparos totais, seguida por São Gonçalos, Belford Roxo, Niterório e Duque de Caxias para fechar a lista dos cinco municipios mais intensos.
 
   .container
     .card
-      h2 Municipios em 2017 x 2018
-      canvas#municipio1718(width='800' height='450')
-      script.
-        new Chart(document.getElementById("municipio1718"), {
-            type: 'bar',
-            data: {
-              labels: ["1900", "1950", "1999", "2050"],
-              datasets: [
-                {
-                  label: "Africa",
-                  backgroundColor: "#ff6200",
-                  data: [133,221,783,2478]
-                }, {
-                  label: "Europe",
-                  backgroundColor: "#005bac",
-                  data: [408,547,675,734]
-                }
-              ]
-            },
-            options: {
-              title: {
-                display: true,
-                text: 'Population growth (millions)'
-              }
-            }
-        });
-    .card
       h2 Bairros em 2017 x 2018
-      canvas#bairros1718(width='800' height='450')
+      canvas#ad_bairros1718(width='800' height='450')
       script.
-        new Chart(document.getElementById("bairros1718"), {
-            type: 'bar',
-            data: {
-              labels: ["1900", "1950", "1999", "2050"],
-              datasets: [{
-                  label: "Europe",
-                  type: "line",
-                  borderColor: "#ff6200",
-                  data: [408,547,675,734],
-                  fill: false
-                }, {
-                  label: "Africa",
-                  type: "line",
-                  borderColor: "#005bac",
-                  data: [133,221,783,2478],
-                  fill: false
-                }, {
-                  label: "Europe",
-                  type: "bar",
-                  backgroundColor: "rgba(0,0,0,0.4)",
-                  data: [408,547,675,734],
-                }, {
-                  label: "Africa",
-                  type: "bar",
-                  backgroundColor: "rgba(0,0,0,0.2)",
-                  backgroundColorHover: "#3e95cd",
-                  data: [133,221,783,2478]
-                }
-              ]
-            },
-            options: {
-              title: {
-                display: true,
-                text: 'Population growth (millions): Europe & Africa'
+        $.get('/data/ad_bairros', function(bairros) {
+          
+          new Chart(document.getElementById("ad_bairros1718"), {
+              type: 'bar',
+              data: {
+                labels: bairros.labels,
+                datasets: [
+                  {
+                    label: "Antes",
+                    backgroundColor: "#ff6200",
+                    data: bairros.antes
+                  }, {
+                    label: "Durante",
+                    backgroundColor: "#005bac",
+                    data: bairros.depois
+                  }
+                ]
               },
-              legend: { display: false }
-            }
-        });
+              options: {
+                title: {
+                  display: true,
+                  text: 'Population growth (millions)'
+                }
+              }
+          });
+          
+        })
+    .card
+      h2 Municipios em 2017 x 2018
+      canvas#ad_municipio1718(width='800' height='450')
+      script.
+        $.get('/data/ad_municipios', function(municipio) {
+          
+          new Chart(document.getElementById("ad_municipio1718"), {
+              type: 'bar',
+              data: {
+                labels: municipio.labels,
+                datasets: [
+                  {
+                    label: "Antes",
+                    backgroundColor: "#ff6200",
+                    data: municipio.antes
+                  }, {
+                    label: "Durante",
+                    backgroundColor: "#005bac",
+                    data: municipio.depois
+                  }
+                ]
+              },
+              options: {
+                title: {
+                  display: true,
+                  text: 'Population growth (millions)'
+                }
+              }
+          });
+          
+        })
+    .card
+      h2 Municipios (sem o Rio de Janeiro) em 2017 x 2018
+      canvas#ad_municipiosrio(width='800' height='450')
+      script.
+        $.get('/data/ad_municipiosrio', function(municipio) {
+          
+          new Chart(document.getElementById("ad_municipiosrio"), {
+              type: 'bar',
+              data: {
+                labels: municipio.labels,
+                datasets: [
+                  {
+                    label: "Antes",
+                    backgroundColor: "#ff6200",
+                    data: municipio.antes
+                  }, {
+                    label: "Durante",
+                    backgroundColor: "#005bac",
+                    data: municipio.depois
+                  }
+                ]
+              },
+              options: {
+                title: {
+                  display: true,
+                  text: 'Population growth (millions)'
+                }
+              }
+          });
+          
+        })
